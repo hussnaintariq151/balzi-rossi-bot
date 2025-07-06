@@ -1,0 +1,110 @@
+{
+    "id": "accessibility_info_balzi_rossi",
+    "accessibility": {
+      "title": {
+        "en": "Accessibility",
+        "it": "Accessibilità",
+        "fr": "Accessibilité",
+        "de": "Barrierefreiheit",
+        "ar": "إمكانية الوصول"
+      },
+      "description": {
+        "en": "The museum ensures accessibility for visitors with disabilities—including wheelchair users—through ground-level entry, reserved parking, accessible restrooms, and virtual cave access. Staff are available to offer assistance upon request.",
+        "it": "Il museo garantisce l’accessibilità ai visitatori con disabilità, comprese le persone in sedia a rotelle, con ingresso a livello, parcheggi riservati, servizi igienici accessibili e accesso virtuale alla grotta. Il personale è disponibile ad assistere su richiesta.",
+        "fr": "Le musée assure l’accessibilité aux personnes handicapées, y compris aux utilisateurs de fauteuils roulants, avec une entrée de plain-pied, des places de parking réservées, des toilettes accessibles et un accès virtuel à la grotte. Le personnel est disponible pour aider sur demande.",
+        "de": "Das Museum gewährleistet Barrierefreiheit für Besucher mit Behinderungen, einschließlich Rollstuhlfahrern, mit ebenerdigen Eingängen, reservierten Parkplätzen, barrierefreien Toiletten und virtuellem Höhlenzugang. Das Personal ist auf Anfrage verfügbar.",
+        "ar": "يضمن المتحف إمكانية الوصول لذوي الإعاقة بما في ذلك مستخدمي الكراسي المتحركة–مع مدخل أرضي، ومواقف مخصصة، ودورات مياه مناسبة، وإمكانية الوصول الافتراضي إلى الكهف. الموظفون متواجدون لتقديم المساعدة عند الطلب."
+      },
+      "features": [
+        {
+          "feature": {
+            "en": "Wheelchair accessible entrance",
+            "it": "Ingresso accessibile in sedia a rotelle",
+            "fr": "Entrée accessible en fauteuil roulant",
+            "de": "Rollstuhlgerechter Eingang",
+            "ar": "مدخل مناسب للكراسي المتحركة"
+          }
+        },
+        {
+          "feature": {
+            "en": "Wheelchair accessible parking lot",
+            "it": "Parcheggio accessibile in sedia a rotelle",
+            "fr": "Parking accessible en fauteuil roulant",
+            "de": "Rollstuhlgerechter Parkplatz",
+            "ar": "موقف سيارات مناسب للكراسي المتحركة"
+          }
+        },
+        {
+          "feature": {
+            "en": "Wheelchair accessible restroom",
+            "it": "Servizi igienici accessibili in sedia a rotelle",
+            "fr": "Toilettes accessibles en fauteuil roulant",
+            "de": "Rollstuhlgerechte Toilette",
+            "ar": "دورة مياه مناسبة للكراسي المتحركة"
+          }
+        },
+        {
+          "feature": {
+            "en": "Reserved parking spaces for disabled visitors (2 spots)",
+            "it": "Parcheggi riservati per visitatori disabili (2 posti)",
+            "fr": "Places de parking réservées aux personnes handicapées (2 places)",
+            "de": "Reservierte Parkplätze für behinderte Besucher (2 Plätze)",
+            "ar": "مواقف مخصصة للزوار ذوي الإعاقة (مكانين)"
+          }
+        },
+        {
+          "feature": {
+            "en": "Ground-level main entrance with ramp (84 cm width)",
+            "it": "Ingresso principale a livello con rampa (larghezza 84 cm)",
+            "fr": "Entrée principale de plain-pied avec rampe (largeur 84 cm)",
+            "de": "Haupteingang ebenerdig mit Rampe (Breite 84 cm)",
+            "ar": "مدخل رئيسي بمستوى الأرض مع منحدر (عرض 84 سم)"
+          }
+        },
+        {
+          "feature": {
+            "en": "Accessible single toilet with grab bars and emergency cord",
+            "it": "Bagno accessibile con maniglioni e corda di emergenza",
+            "fr": "Toilette accessible avec barres d'appui et cordon d'urgence",
+            "de": "Barrierefreie Toilette mit Haltegriffen und Notrufleine",
+            "ar": "دورة مياه ميسّرة بصوان عمودية وحبل طوارئ"
+          }
+        },
+        {
+          "feature": {
+            "en": "Seating available in every room near exhibits",
+            "it": "Sedute presenti in ogni sala vicino alle opere",
+            "fr": "Places assises disponibles dans chaque salle près des œuvres",
+            "de": "Sitzgelegenheiten in jedem Raum in Ausstellungnähe vorhanden",
+            "ar": "أماكن جلوس متوفرة في كل قاعة بالقرب من المعروضات"
+          }
+        },
+        {
+          "feature": {
+            "en": "Level internal pathways—no stairs required",
+            "it": "Percorsi interni livellati—senza gradini",
+            "fr": "Chemins intérieurs à niveau—sans escaliers",
+            "de": "Ebenmäßige Innengehwege—ohne Treppen",
+            "ar": "ممرات داخلية بمستوى واحد–بدون درجات"
+          }
+        },
+        {
+          "feature": {
+            "en": "Virtual cave tour via headset upon request",
+            "it": "Tour virtuale della grotta tramite visore su richiesta",
+            "fr": "Visite virtuelle de la grotte avec casque sur demande",
+            "de": "Virtueller Höhlenrundgang per Headset auf Anfrage",
+            "ar": "جولة افتراضية للكَهف عبر سماعة رأس عند الطلب"
+          }
+        }
+      ],
+      "additional_notes": {
+        "en": "The museum buildings are on one level and easy to navigate. No elevators are available, but the layout allows wheelchair access throughout. Reservation advised for groups needing assistance.",
+        "it": "I due edifici museali sono su un unico livello e facili da percorrere. Non sono previsti ascensori, ma la disposizione permette l’accesso in sedia a rotelle ovunque. Si consiglia prenotazione per gruppi che necessitano assistenza.",
+        "fr": "Les deux bâtiments du musée sont de plain-pied et faciles à parcourir. Il n’y a pas d’ascenseurs, mais la configuration permet un accès fauteuil roulant partout. Réservation recommandée pour les groupes nécessitant de l’aide.",
+        "de": "Beide Museumsgebäude sind ebenerdig und leicht zugänglich. Es gibt keinen Aufzug, aber die Anordnung ermöglicht Rollstuhl-Zugang überall. Reservierung empfohlen für Gruppen, die Hilfe benötigen.",
+        "ar": "كلا المبنيين متاحان على مستوى الأرض وسهل التنقل ضمنهما. لا توجد مصاعد، لكن التصميم يسمح بدخول الكراسي المتحركة في كل الأرجاء. يُنصح بالحجز للمجموعات التي تحتاج إلى مساعدة."
+      }
+    }
+  }
+  

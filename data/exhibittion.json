@@ -1,0 +1,336 @@
+{
+    "museum": "Balzi Rossi Prehistoric Museum",
+    "exhibitions": [
+      {
+        "title": {
+          "en": "Caviglione Woman Reinstallation",
+          "it": "Reinstallazione della Donna del Caviglione",
+          "fr": "Réinstallation de la Femme du Caviglione",
+          "de": "Wiederaufbau der Frau von Caviglione",
+          "ar": "إعادة تركيب امرأة كافيغليوني"
+        },
+        "type": {
+          "en": "Permanent exhibit",
+          "it": "Mostra permanente",
+          "fr": "Exposition permanente",
+          "de": "Dauerausstellung",
+          "ar": "معرض دائم"
+        },
+        "start_date": "2018-03-06",
+        "end_date": null,
+        "description": {
+          "en": "Reinstallation of the Caviglione Woman burial site with face reconstruction, bilingual panels, and guided-tour narrative improvements.",
+          "it": "Reinstallazione della sepoltura della Donna del Caviglione con ricostruzione facciale, pannelli bilingue e miglioramento del percorso narrativo.",
+          "fr": "Réinstallation du site funéraire de la Femme du Caviglione avec reconstruction faciale, panneaux bilingues et amélioration du parcours guidé.",
+          "de": "Wiederaufbau der Begräbnisstätte der Frau von Caviglione mit Gesichtsrekonstruktion, zweisprachigen Tafeln und verbesserten Führungen.",
+          "ar": "إعادة تركيب موقع دفن امرأة كافيغليوني مع إعادة بناء الوجه، ولوحات ثنائية اللغة، وتحسينات في الجولات الإرشادية."
+        },
+        "features": {
+          "en": [
+            "Caviglione Woman face reconstruction",
+            "Young Neanderthal-era elephant skeleton",
+            "Bilingual information panels",
+            "Improved educational path"
+          ],
+          "it": [
+            "Ricostruzione facciale della Donna del Caviglione",
+            "Scheletro di giovane elefante dell'era Neanderthal",
+            "Pannelli informativi bilingue",
+            "Percorso educativo migliorato"
+          ],
+          "fr": [
+            "Reconstruction faciale de la Femme du Caviglione",
+            "Squelette d’éléphant jeune de l’ère néandertalienne",
+            "Panneaux d’information bilingues",
+            "Parcours éducatif amélioré"
+          ],
+          "de": [
+            "Gesichtsrekonstruktion der Frau von Caviglione",
+            "Skelett eines jungen Elefanten aus der Neandertalerzeit",
+            "Zweisprachige Informationstafeln",
+            "Verbesserter Bildungsweg"
+          ],
+          "ar": [
+            "إعادة بناء وجه امرأة كافيغليوني",
+            "هيكل عظمي لفيل شاب من عصر نياندرتال",
+            "لوحات معلومات ثنائية اللغة",
+            "مسار تعليمي محسّن"
+          ]
+        },
+        "source": "Prima la Riviera, Finestre sull’Arte"
+      },
+      {
+        "title": {
+          "en": "Human History Trail",
+          "it": "Percorso della Storia Umana",
+          "fr": "Parcours de l’Histoire Humaine",
+          "de": "Pfad der Menschheitsgeschichte",
+          "ar": "مسار التاريخ البشري"
+        },
+        "type": {
+          "en": "Permanent exhibit",
+          "it": "Mostra permanente",
+          "fr": "Exposition permanente",
+          "de": "Dauerausstellung",
+          "ar": "معرض دائم"
+        },
+        "start_date": "2023-11-11",
+        "end_date": null,
+        "description": {
+          "en": "New permanent layout exploring human evolution, Paleolithic art, and the Prince's Cave. Includes multimedia and eco-sustainable upgrades.",
+          "it": "Nuovo allestimento permanente che esplora l'evoluzione umana, l'arte paleolitica e la Grotta del Principe. Include aggiornamenti multimediali ed ecosostenibili.",
+          "fr": "Nouveau parcours permanent explorant l’évolution humaine, l’art paléolithique et la Grotte du Prince. Comprend des mises à jour multimédias et écologiques.",
+          "de": "Neues permanentes Layout zur Erforschung der menschlichen Evolution, paläolithischen Kunst und der Fürstenhöhle. Inklusive multimedialer und umweltfreundlicher Upgrades.",
+          "ar": "تخطيط دائم جديد يستكشف تطور الإنسان، فن العصر الحجري القديم، وكهف الأمير. يشمل ترقيات متعددة الوسائط ومستدامة بيئيًا."
+        },
+        "features": {
+          "en": [
+            "Multimedia and VR displays",
+            "Prince’s Cave research gallery",
+            "Palaeolithic art section",
+            "Solar-powered infrastructure",
+            "Climate-controlled environment"
+          ],
+          "it": [
+            "Installazioni multimediali e realtà virtuale",
+            "Galleria di ricerca della Grotta del Principe",
+            "Sezione sull’arte paleolitica",
+            "Infrastrutture a energia solare",
+            "Ambiente climatizzato"
+          ],
+          "fr": [
+            "Installations multimédia et réalité virtuelle",
+            "Galerie de recherche de la Grotte du Prince",
+            "Section sur l’art paléolithique",
+            "Infrastructures à énergie solaire",
+            "Environnement climatisé"
+          ],
+          "de": [
+            "Multimedia- und VR-Installationen",
+            "Forschungsgalerie der Fürstenhöhle",
+            "Abschnitt über paläolithische Kunst",
+            "Solargestützte Infrastruktur",
+            "Klimakontrollierte Umgebung"
+          ],
+          "ar": [
+            "عروض متعددة الوسائط وواقع افتراضي",
+            "قاعة بحث كهف الأمير",
+            "قسم فن العصر الحجري القديم",
+            "بنية تحتية تعمل بالطاقة الشمسية",
+            "بيئة محكمة التحكم في المناخ"
+          ]
+        },
+        "source": "Finestre sull’Arte, Riviera Time"
+      }
+    ],
+        "special_events": [
+          {
+            "title": {
+              "en": "Pasqua 2023 – Special Easter Opening",
+              "it": "Pasqua 2023 – Apertura Speciale di Pasqua",
+              "fr": "Pâques 2023 – Ouverture Spéciale",
+              "de": "Ostern 2023 – Sonderöffnung",
+              "ar": "عيد الفصح 2023 – افتتاح خاص"
+            },
+            "type": {
+              "en": "Temporary event",
+              "it": "Evento temporaneo",
+              "fr": "Événement temporaire",
+              "de": "Temporäres Ereignis",
+              "ar": "فعالية مؤقتة"
+            },
+            "start_date": "2023-04-08",
+            "end_date": "2023-04-09",
+            "description": {
+              "en": "Extended hours and special access to the museum and Caviglione Cave during the Easter holiday weekend.",
+              "it": "Orari prolungati e accesso speciale al museo e alla Grotta dei Caviglioni durante il fine settimana di Pasqua.",
+              "fr": "Horaires prolongés et accès spécial au musée et à la grotte Caviglione pendant le week-end de Pâques.",
+              "de": "Verlängerte Öffnungszeiten und Sonderzugang zum Museum und zur Caviglione-Höhle während des Osterwochenendes.",
+              "ar": "ساعات عمل ممتدة ودخول خاص إلى المتحف وكهف كافيغليوني خلال عطلة عيد الفصح."
+            },
+            "highlights": {
+              "en": [
+                "Museum open continuously until 19:30",
+                "Cave access available with entry ticket",
+                "Full ticket price: €4"
+              ],
+              "it": [
+                "Museo aperto ininterrottamente fino alle 19:30",
+                "Accesso alla grotta con biglietto d'ingresso",
+                "Prezzo intero del biglietto: €4"
+              ],
+              "fr": [
+                "Musée ouvert sans interruption jusqu'à 19h30",
+                "Accès à la grotte avec billet d'entrée",
+                "Tarif plein : 4 €"
+              ],
+              "de": [
+                "Museum durchgehend bis 19:30 geöffnet",
+                "Zugang zur Höhle mit Eintrittskarte",
+                "Vollpreis: 4 €"
+              ],
+              "ar": [
+                "المتحف مفتوح حتى الساعة 19:30 دون انقطاع",
+                "الدخول إلى الكهف متاح بتذكرة الدخول",
+                "السعر الكامل للتذكرة: 4 يورو"
+              ]
+            },
+            "source": "Ministero della Cultura"
+          },
+          {
+            "title": {
+              "en": "Spring Special Mondays",
+              "it": "Primavera al Museo – Lunedì Speciali di Primavera",
+              "fr": "Printemps au Musée – Lundis Spéciaux de Printemps",
+              "de": "Frühling im Museum – Besondere Montage im Frühling",
+              "ar": "الربيع في المتحف – أيام الإثنين الخاصة بالربيع"
+            },
+            "type": {
+              "en": "Special seasonal event",
+              "it": "Evento stagionale speciale",
+              "fr": "Événement saisonnier spécial",
+              "de": "Besonderes saisonales Ereignis",
+              "ar": "فعالية موسمية خاصة"
+            },
+            "start_date": "2025-04-14",
+            "end_date": "2025-05-26",
+            "description": {
+              "en": "State museums in Liguria, including Balzi Rossi, open on normally closed Mondays.",
+              "it": "I musei statali della Liguria, incluso Balzi Rossi, aprono anche di lunedì, normalmente giorno di chiusura.",
+              "fr": "Les musées d'État en Ligurie, y compris Balzi Rossi, sont ouverts les lundis normalement fermés.",
+              "de": "Die staatlichen Museen in Ligurien, einschließlich Balzi Rossi, sind an normalerweise geschlossenen Montagen geöffnet.",
+              "ar": "تفتح المتاحف الحكومية في ليغوريا، بما في ذلك بالزي روسي، أبوابها أيام الإثنين التي تكون مغلقة عادةً."
+            },
+            "highlights": {
+              "en": [
+                "Open hours: 08:30–13:30",
+                "Cave tours at 11:00–12:00 and 15:00–16:00",
+                "Ticket: €4 full, €2 reduced"
+              ],
+              "it": [
+                "Orario di apertura: 08:30–13:30",
+                "Visite alla grotta: 11:00–12:00 e 15:00–16:00",
+                "Biglietto: €4 intero, €2 ridotto"
+              ],
+              "fr": [
+                "Heures d’ouverture : 08h30–13h30",
+                "Visites de la grotte : 11h00–12h00 et 15h00–16h00",
+                "Billet : 4 € plein, 2 € réduit"
+              ],
+              "de": [
+                "Öffnungszeiten: 08:30–13:30",
+                "Höhlenführungen: 11:00–12:00 und 15:00–16:00",
+                "Eintritt: 4 € regulär, 2 € ermäßigt"
+              ],
+              "ar": [
+                "ساعات العمل: من 08:30 إلى 13:30",
+                "جولات الكهف: من 11:00 إلى 12:00 ومن 15:00 إلى 16:00",
+                "التذكرة: 4 يورو كاملة، 2 يورو مخفضة"
+              ]
+            },
+            "source": "Sanremo News, Ministero della Cultura"
+          },
+          {
+            "title": {
+              "en": "Extraordinary Opening – 25 April 2025",
+              "it": "Apertura Straordinaria – 25 Aprile 2025",
+              "fr": "Ouverture Exceptionnelle – 25 Avril 2025",
+              "de": "Außergewöhnliche Öffnung – 25. April 2025",
+              "ar": "افتتاح استثنائي – 25 أبريل 2025"
+            },
+            "type": {
+              "en": "National holiday opening",
+              "it": "Apertura festiva nazionale",
+              "fr": "Ouverture pendant jour férié national",
+              "de": "Öffnung an nationalem Feiertag",
+              "ar": "افتتاح في عطلة وطنية"
+            },
+            "start_date": "2025-04-25",
+            "end_date": "2025-04-25",
+            "description": {
+              "en": "Special full-day free entry to the museum and guided cave visits for Liberation Day in Italy.",
+              "it": "Ingresso gratuito tutto il giorno al museo e visite guidate alla grotta per la Festa della Liberazione in Italia.",
+              "fr": "Entrée gratuite toute la journée au musée et visites guidées de la grotte à l’occasion de la Fête de la Libération en Italie.",
+              "de": "Kostenloser Eintritt den ganzen Tag über ins Museum und geführte Höhlenbesuche zum Tag der Befreiung in Italien.",
+              "ar": "دخول مجاني طوال اليوم إلى المتحف وزيارات إرشادية إلى الكهف بمناسبة يوم التحرير في إيطاليا."
+            },
+            "highlights": {
+              "en": [
+                "Free admission",
+                "Cave visits: 11:00–12:00 and 15:00–16:00"
+              ],
+              "it": [
+                "Ingresso gratuito",
+                "Visite alla grotta: 11:00–12:00 e 15:00–16:00"
+              ],
+              "fr": [
+                "Entrée gratuite",
+                "Visites de la grotte : 11h00–12h00 et 15h00–16h00"
+              ],
+              "de": [
+                "Eintritt frei",
+                "Höhlenführungen: 11:00–12:00 und 15:00–16:00"
+              ],
+              "ar": [
+                "الدخول مجاني",
+                "جولات الكهف: من 11:00 إلى 12:00 ومن 15:00 إلى 16:00"
+              ]
+            },
+            "source": "Ministero della Cultura"
+          },
+          {
+            "title": {
+              "en": "Suq Festival Event at Balzi Rossi",
+              "it": "Evento del Suq Festival al Balzi Rossi",
+              "fr": "Événement du Festival Suq au Balzi Rossi",
+              "de": "Suq-Festival-Veranstaltung bei Balzi Rossi",
+              "ar": "فعالية مهرجان سوق في بالزي روسي"
+            },
+            "type": {
+              "en": "Cultural collaboration",
+              "it": "Collaborazione culturale",
+              "fr": "Collaboration culturelle",
+              "de": "Kulturelle Zusammenarbeit",
+              "ar": "تعاون ثقافي"
+            },
+            "start_date": "2025-06-27",
+            "end_date": null,
+            "description": {
+              "en": "Theatrical segment of the 27th Suq Festival held at the museum site.",
+              "it": "Segmento teatrale della 27ª edizione del Suq Festival ospitato presso il museo.",
+              "fr": "Segment théâtral de la 27e édition du Festival Suq tenu sur le site du musée.",
+              "de": "Theateraufführung im Rahmen des 27. Suq-Festivals auf dem Museumsgelände.",
+              "ar": "عرض مسرحي ضمن فعاليات النسخة السابعة والعشرين من مهرجان سوق في موقع المتحف."
+            },
+            "highlights": {
+              "en": [
+                "Intercultural theater performances",
+                "Balzi Rossi as festival venue",
+                "Part of Ligurian cultural week"
+              ],
+              "it": [
+                "Spettacoli teatrali interculturali",
+                "Balzi Rossi come sede del festival",
+                "Parte della settimana culturale ligure"
+              ],
+              "fr": [
+                "Représentations théâtrales interculturelles",
+                "Balzi Rossi comme lieu du festival",
+                "Fait partie de la semaine culturelle ligure"
+              ],
+              "de": [
+                "Interkulturelle Theateraufführungen",
+                "Balzi Rossi als Veranstaltungsort",
+                "Teil der ligurischen Kulturwoche"
+              ],
+              "ar": [
+                "عروض مسرحية متعددة الثقافات",
+                "بالزي روسي كموقع للمهرجان",
+                "جزء من أسبوع الثقافة الليغورية"
+              ]
+            },
+            "source": "Virgilio.it"
+          }
+        ]
+      }
+      

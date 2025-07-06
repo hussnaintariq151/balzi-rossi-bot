@@ -1,0 +1,1293 @@
+[    
+    {
+        "id": "venus_figurines",
+        "name": {
+            "en": "Venus Figurines (Grimaldi Venuses)",
+            "it": "Veneri di Grimaldi",
+            "fr": "Vénus de Grimaldi",
+            "de": "Venusfiguren von Grimaldi",
+            "ar": "تماثيل فينوس (فينوسات غريمالدي)"
+        },
+        "type": "Upper Paleolithic Figurines",
+        "period": "Gravettian (~24,000–19,000 BP)",
+        "estimated_date": "24,000–19,000 BP",
+        "accession_number": "BR-VF-COLL-001",
+        "origin": "Balzi Rossi Caves, Ventimiglia, Italy",
+        "description": {
+            "en": "A collection of 13 Upper Paleolithic female figurines carved from steatite, bone, and ivory. These statuettes are among the oldest known representations of the human form in Europe, showing stylized and symbolic depictions of femininity and fertility.",
+            "it": "Una collezione di 13 statuette femminili del Paleolitico superiore scolpite in steatite, osso e avorio.",
+            "fr": "Une collection de 13 figurines féminines du Paléolithique supérieur sculptées en stéatite.",
+            "de": "Eine Sammlung von 13 weiblichen Figurinen aus dem Jungpaläolithikum.",
+            "ar": "مجموعة من 13 تمثالًا نسائيًا من العصر الحجري القديم الأعلى."
+        },
+        "significance": {
+            "en": "These figurines provide important insights into Paleolithic symbolic behavior, artistic expression, and beliefs surrounding fertility and the female form. Their discovery at Balzi Rossi contributes significantly to our understanding of Gravettian culture in Western Europe.",
+            "it": "Queste statuette offrono importanti spunti sul comportamento simbolico, l'espressione artistica e le credenze relative alla fertilità e alla forma femminile nel Paleolitico. La loro scoperta ai Balzi Rossi contribuisce significativamente alla nostra comprensione della cultura Gravettiana nell'Europa occidentale.",
+            "fr": "Ces figurines offrent des aperçus importants sur le comportement symbolique, l'expression artistique et les croyances entourant la fertilité et la forme féminine au Paléolithique. Leur découverte à Balzi Rossi contribue de manière significative à notre compréhension de la culture gravettienne en Europe occidentale.",
+            "de": "Diese Figurinen geben wichtige Einblicke in das symbolische Verhalten, den künstlerischen Ausdruck und die Überzeugungen in Bezug auf Fruchtbarkeit und die weibliche Form im Paläolithikum. Ihre Entdeckung in Balzi Rossi trägt wesentlich zu unserem Verständnis der Gravettien-Kultur in Westeuropa bei.",
+            "ar": "توفر هذه التماثيل رؤى مهمة حول السلوك الرمزي، والتعبير الفني، والمعتقدات المحيطة بالخصوبة والشكل الأنثوي في العصر الحجري القديم. يساهم اكتشافها في بالزي روسي بشكل كبير في فهمنا لثقافة الجرافيتيان في أوروبا الغربية."
+        },
+        "material": {
+            "en": "Ivory, steatite (soapstone), and bone",
+            "it": "Avorio, steatite (pietra saponaria) e osso",
+            "fr": "Ivoire, stéatite (pierre à savon) et os",
+            "de": "Elfenbein, Speckstein und Knochen",
+            "ar": "العاج، الستياتيت (حجر الصابون)، والعظام"
+        },
+        "sub_artifacts": [
+            {
+                "id": "yellow_steatite_venus",
+                "name": {
+                    "en": "Yellow Steatite Figurine",
+                    "it": "Statuina in steatite gialla",
+                    "fr": "Figurine en stéatite jaune",
+                    "de": "Gelbe Specksteinfigur",
+                    "ar": "تمثال الستياتيت الأصفر"
+                },
+                "material": "Steatite",
+                "description": {
+                    "en": "Also known as the 'Venus of Menton', this figurine has a slim elongated form and a hole near the head, possibly for suspension. Its distinctive yellow hue is due to the natural color of the steatite.",
+                    "it": "Conosciuta anche come 'Venere di Mentone', questa statuina presenta una forma snella e allungata e un foro vicino alla testa, forse per la sospensione. La sua caratteristica tonalità gialla è dovuta al colore naturale della steatite.",
+                    "fr": "Également connue sous le nom de 'Vénus de Menton', cette figurine présente une forme fine et allongée et un trou près de la tête, peut-être pour la suspension. Sa teinte jaune distinctive est due à la couleur naturelle de la stéatite.",
+                    "de": "Auch bekannt als 'Venus von Menton', weist diese Figur eine schlanke, längliche Form und ein Loch in Kopfnähe auf, möglicherweise zur Aufhängung. Ihr markanter gelber Farbton ist auf die natürliche Farbe des Specksteins zurückzuführen.",
+                    "ar": "تُعرف أيضًا باسم 'فينوس منتون'، يتميز هذا التمثال بشكل نحيل وممدود وثقب بالقرب من الرأس، ربما للتعليق. يُعزى لونه الأصفر المميز إلى اللون الطبيعي للستياتيت."
+                },
+                "estimated_date": "~22,000 BP",
+                "accession_number": "BR-VF-001",
+                "curator": "Dr. Sofia Romano"
+            },
+            {
+                "id": "double_figurine",
+                "name": {
+                    "en": "Double Figurine",
+                    "it": "Doppia statuina",
+                    "fr": "Figurine double",
+                    "de": "Doppelfigur",
+                    "ar": "التمثال المزدوج"
+                },
+                "material": "Ivory",
+                "description": {
+                    "en": "Depicts two merged figures — one slim and elegant, the other stocky and rough — possibly symbolizing duality, transformation, or different stages of life. This unique piece highlights the complex symbolic thinking of Upper Paleolithic artists.",
+                    "it": "Raffigura due figure fuse — una snella ed elegante, l'altra tozza e grezza — forse a simboleggiare la dualità, la trasformazione o diverse fasi della vita. Questo pezzo unico evidenzia il complesso pensiero simbolico degli artisti del Paleolitico superiore.",
+                    "fr": "Représente deux figures fusionnées — l'une mince et élégante, l'autre trapue et brute — symbolisant peut-être la dualité, la transformation ou différentes étapes de la vie. Cette pièce unique met en lumière la pensée symbolique complexe des artistes du Paléolithique supérieur.",
+                    "de": "Zeigt zwei verschmolzene Figuren – eine schlank und elegant, die andere stämmig und grob – möglicherweise als Symbol für Dualität, Transformation oder verschiedene Lebensphasen. Dieses einzigartige Stück unterstreicht das komplexe symbolische Denken der Künstler des Jungpaläolithikums.",
+                    "ar": "يُظهر تمثالين مدمجين — أحدهما نحيل وأنيق، والآخر ممتلئ وخشن — ربما يرمز إلى الازدواجية أو التحول أو مراحل مختلفة من الحياة. تسلط هذه القطعة الفريدة الضوء على التفكير الرمزي المعقد لفناني العصر الحجري القديم الأعلى."
+                },
+                "estimated_date": "~20,000 BP",
+                "accession_number": "BR-VF-002",
+                "curator": "Dr. Antoine Dubois"
+            },
+            {
+                "id": "headless_figurine",
+                "name": {
+                    "en": "Headless Figurine",
+                    "it": "Statuina senza testa",
+                    "fr": "Figurine sans tête",
+                    "de": "Kopflose Figur",
+                    "ar": "تمثال بدون رأس"
+                },
+                "material": "Ivory",
+                "description": {
+                    "en": "A broken ivory statuette missing its head, possibly due to ancient ritual breakage or accidental damage during its long history. Despite the breakage, the detailed torso and limbs convey the artistic skill.",
+                    "it": "Una statuina in avorio rotta, priva della testa, forse a causa di una rottura rituale antica o di un danno accidentale durante la sua lunga storia. Nonostante la rottura, il torso e gli arti dettagliati trasmettono l'abilità artistica.",
+                    "fr": "Une statuette en ivoire cassée, sans tête, peut-être due à une rupture rituelle ancienne ou à des dommages accidentels au cours de sa longue histoire. Malgré la cassure, le torse et les membres détaillés témoignent de l'habileté artistique.",
+                    "de": "Eine beschädigte Elfenbeinfigur ohne Kopf, möglicherweise aufgrund alter ritueller Zerstörung oder zufälliger Beschädigung im Laufe ihrer langen Geschichte. Trotz des Bruchs zeugen der detaillierte Torso und die Gliedmaßen von der künstlerischen Fertigkeit.",
+                    "ar": "تمثال عاجي مكسور بدون رأس، ربما بسبب كسر طقسي قديم أو تلف عرضي خلال تاريخه الطويل. على الرغم من الكسر، فإن الجذع والأطراف المفصلة تنقل المهارة الفنية."
+                },
+                "estimated_date": "~23,500 BP",
+                "accession_number": "BR-VF-003",
+                "curator": "Prof. Marco Rossi"
+            },
+            {
+                "id": "engraved_venus_torso",
+                "name": {
+                    "en": "Engraved Venus Torso",
+                    "it": "Torso inciso di Venere",
+                    "fr": "Torse gravé de Vénus",
+                    "de": "Gravierter Venus-Torso",
+                    "ar": "جذع فينوس المنقوش"
+                },
+                "material": "Bone or ivory",
+                "description": {
+                    "en": "A partial Venus figurine showing exquisitely engraved hips, abdomen, and breasts, indicating a strong emphasis on fertility and anatomical detail. The fine lines suggest skilled craftsmanship.",
+                    "it": "Una statuina parziale di Venere che mostra incisioni squisite sui fianchi, sull'addome e sul seno, indicando una forte enfasi sulla fertilità e sui dettagli anatomici. Le linee sottili suggeriscono una maestria artigianale.",
+                    "fr": "Une figurine partielle représentant les hanches, l'abdomen et les seins gravés avec une finesse exquise, soulignant l'importance de la fertilité et du détail anatomique. Les lignes fines suggèrent un savoir-faire artisanal.",
+                    "de": "Ein Teil einer Venusfigur mit exquisit gravierten Hüften, Bauch und Brüsten, was eine starke Betonung von Fruchtbarkeit und anatomischer Detailtreue erkennen lässt. Die feinen Linien deuten auf handwerkliches Geschick hin.",
+                    "ar": "تمثال فينوس جزئي يُظهر نقشًا رائعًا على الوركين والبطن والثديين، مما يشير إلى تركيز قوي على الخصوبة والتفاصيل التشريحية. تشير الخطوط الدقيقة إلى براعة في الصنعة."
+                },
+                "estimated_date": "~21,000 BP",
+                "accession_number": "BR-VF-004",
+                "curator": "Dr. Chiara Bianchi"
+            },
+            {
+                "id": "fragmented_pelvis_figurine",
+                "name": {
+                    "en": "Fragmented Figurine (Pelvis Only)",
+                    "it": "Statuina frammentata (solo bacino)",
+                    "fr": "Figurine fragmentée (bassin seulement)",
+                    "de": "Fragmentierte Figur (nur Becken)",
+                    "ar": "تمثال مكسور (الحوض فقط)"
+                },
+                "material": "Ivory",
+                "description": {
+                    "en": "Only the pelvis portion of the figurine survives, but its pronounced form strongly highlights the recurring theme of fertility symbolism in these Paleolithic artifacts. It likely belonged to a larger female figure.",
+                    "it": "È sopravvissuta solo la parte del bacino della statuina, ma la sua forma pronunciata evidenzia fortemente il tema ricorrente della simbologia della fertilità in questi manufatti paleolitici. Probabilmente apparteneva a una figura femminile più grande.",
+                    "fr": "Seule la partie du bassin de la figurine a survécu, mais sa forme prononcée met fortement en évidence le thème récurrent du symbolisme de la fertilité dans ces artefacts paléolithiques. Elle faisait probablement partie d'une figure féminine plus grande.",
+                    "de": "Nur das Becken der Figur ist erhalten, doch seine ausgeprägte Form unterstreicht das wiederkehrende Thema der Fruchtbarkeitssymbolik in diesen paläolithischen Artefakten. Es gehörte wahrscheinlich zu einer größeren Frauenfigur.",
+                    "ar": "الجزء المتبقي من التمثال هو الحوض فقط، لكن شكله البارز يسلط الضوء بقوة على الموضوع المتكرر لرمزية الخصوبة في هذه القطع الأثرية من العصر الحجري القديم. من المرجح أنه كان جزءًا من تمثال أنثوي أكبر."
+                },
+                "estimated_date": "~19,500 BP",
+                "accession_number": "BR-VF-005",
+                "curator": "Dr. Pierre Lefevre"
+            },
+            {
+                "id": "placeholder_figurine_6",
+                "name": {
+                    "en": "Unidentified Figurine 6",
+                    "it": "Statuina non identificata 6",
+                    "fr": "Figurine non identifiée 6",
+                    "de": "Unidentifizierte Figur 6",
+                    "ar": "تمثال غير معروف 6"
+                },
+                "material": "Ivory",
+                "description": {
+                    "en": "Details of this figurine are currently under study. Initial observations suggest a stylized human form, but further analysis is needed to confirm its specific features and significance.",
+                    "it": "I dettagli di questa statuina sono attualmente in fase di studio. Le osservazioni iniziali suggeriscono una forma umana stilizzata, ma sono necessarie ulteriori analisi per confermare le sue caratteristiche specifiche e il suo significato.",
+                    "fr": "Les détails de cette figurine sont en cours d'étude. Les premières observations suggèrent une forme humaine stylisée, mais des analyses supplémentaires sont nécessaires pour confirmer ses caractéristiques spécifiques et sa signification.",
+                    "de": "Details dieser Figur werden derzeit untersucht. Erste Beobachtungen deuten auf eine stilisierte menschliche Form hin, aber weitere Analysen sind erforderlich, um ihre spezifischen Merkmale und ihre Bedeutung zu bestätigen.",
+                    "ar": "تفاصيل هذا التمثال قيد الدراسة حاليًا. تشير الملاحظات الأولية إلى شكل إنساني مجرد، ولكن يلزم إجراء المزيد من التحليلات لتأكيد ميزاته المحددة وأهميته."
+                },
+                "estimated_date": "~23,000 BP",
+                "accession_number": "BR-VF-006",
+                "curator": "Dr. Beatrice Galli"
+            },
+            {
+                "id": "placeholder_figurine_7",
+                "name": {
+                    "en": "Unidentified Figurine 7",
+                    "it": "Statuina non identificata 7",
+                    "fr": "Figurine non identifiée 7",
+                    "de": "Unidentifizierte Figur 7",
+                    "ar": "تمثال غير معروف 7"
+                },
+                "material": "Bone",
+                "description": {
+                    "en": "Awaiting further excavation reports to determine the origin and symbolism of this bone figurine. Its fragmented nature makes identification challenging, but it may offer new insights once fully analyzed.",
+                    "it": "In attesa di ulteriori rapporti di scavo per determinare l'origine e la simbologia di questa statuina in osso. La sua natura frammentata rende difficile l'identificazione, ma potrebbe offrire nuove intuizioni una volta completamente analizzata.",
+                    "fr": "En attente de rapports de fouille supplémentaires pour déterminer l'origine et le symbolisme de cette figurine en os. Sa nature fragmentée rend l'identification difficile, mais elle pourrait offrir de nouvelles perspectives une fois entièrement analysée.",
+                    "de": "Weitere Grabungsberichte stehen aus, um Herkunft und Symbolik dieser Knochenfigurine zu bestimmen. Ihr fragmentarischer Charakter erschwert die Identifizierung, aber sie könnte nach vollständiger Analyse neue Erkenntnisse liefern.",
+                    "ar": "في انتظار تقارير التنقيب الإضافية لتحديد أصل ورمزية هذا التمثال العظمي. طبيعته المجزأة تجعل التحديد صعبًا، لكنه قد يقدم رؤى جديدة بمجرد تحليله بالكامل."
+                },
+                "estimated_date": "~24,000 BP",
+                "accession_number": "BR-VF-007",
+                "curator": "Dr. Luca Moretti"
+            },
+            {
+                "id": "placeholder_figurine_8",
+                "name": {
+                    "en": "Unidentified Figurine 8",
+                    "it": "Statuina non identificata 8",
+                    "fr": "Figurine non identifiée 8",
+                    "de": "Unidentifizierte Figur 8",
+                    "ar": "تمثال غير معروف 8"
+                },
+                "material": "Steatite",
+                "description": {
+                    "en": "Possibly a stylized female form, but heavily weathered over millennia. The erosion makes specific features difficult to discern, yet its overall shape suggests a deliberate human carving.",
+                    "it": "Forse una forma femminile stilizzata, ma molto usurata nel corso dei millenni. L'erosione rende difficili da discernere i dettagli specifici, eppure la sua forma complessiva suggerisce un'incisione umana deliberata.",
+                    "fr": "Possiblement une forme féminine stylisée, mais très érodée au fil des millénaires. L'érosion rend les détails spécifiques difficiles à distinguer, mais sa forme générale suggère une sculpture humaine délibérée.",
+                    "de": "Möglicherweise stilisierte Frauenform, aber über Jahrtausende stark verwittert. Die Erosion erschwert die Erkennung spezifischer Merkmale, doch ihre Gesamtform deutet auf eine bewusste menschliche Schnitzerei hin.",
+                    "ar": "ربما شكل أنثوي مجرد لكنه متآكل جدًا على مر العصور. يجعل التآكل من الصعب تمييز الملامح المحددة، ومع ذلك يشير شكلها العام إلى نحت بشري متعمد."
+                },
+                "estimated_date": "~21,500 BP",
+                "accession_number": "BR-VF-008",
+                "curator": "Dr. Isabella Costa"
+            },
+            {
+                "id": "placeholder_figurine_9",
+                "name": {
+                    "en": "Unidentified Figurine 9",
+                    "it": "Statuina non identificata 9",
+                    "fr": "Figurine non identifiée 9",
+                    "de": "Unidentifizierte Figur 9",
+                    "ar": "تمثال غير معروف 9"
+                },
+                "material": "Unknown",
+                "description": {
+                    "en": "This object is highly fragmentary and currently under laboratory analysis to determine its material composition and original form. It represents a challenging but potentially rewarding piece of the collection.",
+                    "it": "Questo oggetto è frammentario e in fase di analisi di laboratorio per determinarne la composizione materiale e la forma originale. Rappresenta un pezzo della collezione impegnativo ma potenzialmente gratificante.",
+                    "fr": "Cet objet est fragmentaire et en cours d'analyse en laboratoire pour déterminer sa composition matérielle et sa forme originale. Il représente une pièce difficile mais potentiellement enrichissante de la collection.",
+                    "de": "Dieses Objekt ist fragmentarisch und wird derzeit im Labor analysiert, um seine Materialzusammensetzung und ursprüngliche Form zu bestimmen. Es stellt ein herausforderndes, aber potenziell lohnendes Stück der Sammlung dar.",
+                    "ar": "هذا الكائن مجزأ للغاية ويخضع حاليًا للتحليل المختبري لتحديد تركيبه المادي وشكله الأصلي. يمثل قطعة صعبة ولكنها قد تكون مجزية من المجموعة."
+                },
+                "estimated_date": "~20,500 BP",
+                "accession_number": "BR-VF-009",
+                "curator": "Dr. Genevieve Martin"
+            },
+            {
+                "id": "placeholder_figurine_10",
+                "name": {
+                    "en": "Unidentified Figurine 10",
+                    "it": "Statuina non identificata 10",
+                    "fr": "Figurine non identifiée 10",
+                    "de": "Unidentifizierte Figur 10",
+                    "ar": "تمثال غير معروف 10"
+                },
+                "material": "Ivory",
+                "description": {
+                    "en": "A poorly preserved figurine with faint traces of engraving on its torso. Despite the damage, these engravings hint at deliberate artistic embellishment, possibly depicting clothing or symbolic patterns.",
+                    "it": "Statuina mal conservata con tracce di incisioni sul torso. Nonostante il danno, queste incisioni suggeriscono un'ornamentazione artistica deliberata, che potrebbe raffigurare abiti o motivi simbolici.",
+                    "fr": "Figurine mal conservée avec de légères traces de gravure sur le torse. Malgré les dommages, ces gravures suggèrent un embellissement artistique délibéré, représentant peut-être des vêtements ou des motifs symboliques.",
+                    "de": "Schlecht erhaltene Figur mit schwachen Gravurspuren am Torso. Trotz der Beschädigung deuten diese Gravuren auf eine bewusste künstlerische Verzierung hin, möglicherweise die Darstellung von Kleidung oder symbolischen Mustern.",
+                    "ar": "تمثال محفوظ بشكل سيئ مع آثار باهتة من النقش على جذعه. على الرغم من التلف، تشير هذه النقوش إلى زخرفة فنية متعمدة، ربما تصور ملابس أو أنماطًا رمزية."
+                },
+                "estimated_date": "~22,500 BP",
+                "accession_number": "BR-VF-010",
+                "curator": "Dr. Alessandro Gallo"
+            },
+            {
+                "id": "placeholder_figurine_11",
+                "name": {
+                    "en": "Unidentified Figurine 11",
+                    "it": "Statuina non identificata 11",
+                    "fr": "Figurine non identifiée 11",
+                    "de": "Unidentifizierte Figur 11",
+                    "ar": "تمثال غير معروف 11"
+                },
+                "material": "Bone",
+                "description": {
+                    "en": "An incomplete figurine showing partial hips and thighs, suggesting a focus on the lower body and the theme of fertility. Its material, likely a large mammal bone, showcases resourcefulness.",
+                    "it": "Statuina incompleta con fianchi e cosce parziali, suggerendo un focus sulla parte inferiore del corpo e il tema della fertilità. Il suo materiale, probabilmente un osso di grande mammifero, dimostra ingegnosità.",
+                    "fr": "Figurine incomplète montrant les hanches et cuisses partielles, suggérant un accent sur le bas du corps et le thème de la fertilité. Son matériau, probablement un os de grand mammifère, témoigne d'ingéniosité.",
+                    "de": "Unvollständige Figur mit teilweisen Hüften und Oberschenkeln, was auf einen Fokus auf den Unterkörper und das Thema Fruchtbarkeit hindeutet. Ihr Material, wahrscheinlich ein großer Säugetierknochen, zeigt Einfallsreichtum.",
+                    "ar": "تمثال غير مكتمل يُظهر الوركين والفخذين جزئيًا، مما يشير إلى التركيز على الجزء السفلي من الجسم وموضوع الخصوبة. مادته، التي يُرجح أنها عظم حيوان ثديي كبير، تبرز البراعة."
+                },
+                "estimated_date": "~19,800 BP",
+                "accession_number": "BR-VF-011",
+                "curator": "Dr. Emilie Laurent"
+            },
+            {
+                "id": "placeholder_figurine_12",
+                "name": {
+                    "en": "Unidentified Figurine 12",
+                    "it": "Statuina non identificata 12",
+                    "fr": "Figurine non identifiée 12",
+                    "de": "Unidentifizierte Figur 12",
+                    "ar": "تمثال غير معروف 12"
+                },
+                "material": "Ivory",
+                "description": {
+                    "en": "Likely part of a larger standing female figure, missing the lower body. The preserved upper torso and limbs offer clues to the overall artistic style and proportions of the original piece.",
+                    "it": "Probabilmente parte di una figura femminile in piedi più grande, mancante della parte inferiore del corpo. Il busto superiore e gli arti conservati offrono indizi sullo stile artistico complessivo e sulle proporzioni del pezzo originale.",
+                    "fr": "Probablement une partie d'une figure féminine debout plus grande, à laquelle il manque le bas du corps. Le torse supérieur et les membres conservés offrent des indices sur le style artistique général et les proportions de la pièce originale.",
+                    "de": "Wahrscheinlich Teil einer stehenden Frauenfigur, bei der der Unterkörper fehlt. Der erhaltene Oberkörper und die Gliedmaßen geben Hinweise auf den gesamten künstlerischen Stil und die Proportionen des Originalstücks.",
+                    "ar": "من المحتمل أنه جزء من تمثال أنثوي واقف أكبر، مفقود الجزء السفلي من الجسم. يوفر الجذع العلوي والأطراف المحفوظة أدلة على الأسلوب الفني العام ونسب القطعة الأصلية."
+                },
+                "estimated_date": "~20,200 BP",
+                "accession_number": "BR-VF-012",
+                "curator": "Dr. Paolo Conti"
+            }
+        ],
+        "source": [
+            "Balzi Rossi Prehistoric Museum",
+            "Ministero della Cultura",
+            "Musei Liguria",
+            "Grimaldi Caves Publications"
+        ]
+    },
+
+    {
+        "id": "caviglione_woman_burial",
+        "name": {
+            "en": "Caviglione Woman Burial",
+            "it": "Sepoltura della Donna di Caviglione",
+            "fr": "Sépulture de la femme de Caviglione",
+            "de": "Bestattung der Frau von Caviglione",
+            "ar": "دفن امرأة كافيليوني"
+        },
+        "type": "Upper Paleolithic Burial",
+        "period": "Gravettian (~25,000 BP)",
+        "estimated_date": "~25,000 BP",
+        "accession_number": "BR-CWB-001",
+        "origin": "Caviglione Cave, Balzi Rossi, Ventimiglia, Italy",
+        "description": {
+            "en": "Skeletal remains (cast displayed in museum) of a ~37‑year‑old woman buried with marine shell and deer-tooth headgear and covered in red ochre. The burial is one of the oldest known in Western Europe.",
+            "it": "Resti scheletrici (calco esposto al museo) di una donna di circa 37 anni sepolta con un copricapo di conchiglie marine e denti di cervo e ricoperta di ocra rossa. La sepoltura è una delle più antiche conosciute in Europa occidentale.",
+            "fr": "Restes squelettiques (moulage exposé au musée) d'une femme d'environ 37 ans, enterrée avec une coiffe en coquillages marins et dents de cerf, recouverte d'ocre rouge. L'une des plus anciennes sépultures connues en Europe de l'Ouest.",
+            "de": "Skelettreste (Abguss im Museum ausgestellt) einer etwa 37-jährigen Frau, die mit einem Kopfschmuck aus Meeresschalen und Hirschzähnen sowie rotem Ocker bedeckt bestattet wurde. Eine der ältesten bekannten Bestattungen in Westeuropa.",
+            "ar": "بقايا هيكل عظمي (نسخة معروضة في المتحف) لامرأة تبلغ من العمر حوالي 37 عامًا، دُفنت بغطاء رأس من أصداف بحرية وأسنان غزال ومغطاة بالأوكر الأحمر. تُعد واحدة من أقدم المدافن المعروفة في أوروبا الغربية."
+        },
+        "significance": {
+            "en": "Among the earliest recorded female burials in Western Europe, the Caviglione Woman provides valuable insight into Upper Paleolithic burial customs, symbolic practices, and early expressions of identity and ritual.",
+            "it": "Tra le più antiche sepolture femminili documentate in Europa occidentale, la Donna di Caviglione offre importanti informazioni sui rituali funerari del Paleolitico superiore, pratiche simboliche e prime espressioni di identità e ritualità.",
+            "fr": "Parmi les plus anciennes sépultures féminines enregistrées en Europe de l'Ouest, la femme de Caviglione offre un aperçu précieux des coutumes funéraires du Paléolithique supérieur, des pratiques symboliques et des premières expressions de l'identité.",
+            "de": "Eine der frühesten dokumentierten weiblichen Bestattungen in Westeuropa. Die Frau von Caviglione liefert wertvolle Einblicke in Bestattungsbräuche, symbolische Praktiken und frühe Ausdrucksformen von Identität und Ritual im Jungpaläolithikum.",
+            "ar": "من أقدم المدافن النسائية المسجلة في أوروبا الغربية، توفر دفن امرأة كافيليوني رؤى قيمة حول عادات الدفن في العصر الحجري القديم الأعلى والممارسات الرمزية والتعبيرات المبكرة عن الهوية والطقوس."
+        },
+        "sub_artifacts": [
+            {
+                "id": "red_ochre_powder",
+                "name": {
+                    "en": "Red Ochre Powder",
+                    "it": "Polvere di ocra rossa",
+                    "fr": "Poudre d’ocre rouge",
+                    "de": "Roter Ockerpulver",
+                    "ar": "مسحوق أوكر أحمر"
+                },
+                "material": "Red ochre (iron oxide)",
+                "description": {
+                    "en": "Traces of red ochre were found covering the body, suggesting ritualistic symbolism possibly related to life, death, or rebirth. Ochre use in burials is a widespread Upper Paleolithic practice.",
+                    "it": "Tracce di ocra rossa coprivano il corpo, suggerendo un simbolismo rituale forse legato alla vita, alla morte o alla rinascita. L’uso dell’ocra nelle sepolture è una pratica diffusa nel Paleolitico superiore.",
+                    "fr": "Des traces d’ocre rouge recouvraient le corps, suggérant un symbolisme rituel possiblement lié à la vie, à la mort ou à la renaissance. L’usage de l’ocre dans les sépultures est courant au Paléolithique supérieur.",
+                    "de": "Spuren von rotem Ocker bedeckten den Körper und deuten auf symbolische Rituale hin, die möglicherweise mit Leben, Tod oder Wiedergeburt verbunden waren. Die Verwendung von Ocker in Bestattungen ist typisch für das Jungpaläolithikum.",
+                    "ar": "عُثر على آثار من الأوكر الأحمر تغطي الجثة، مما يشير إلى رمزية طقسية ربما تتعلق بالحياة أو الموت أو البعث. استخدام الأوكر في الدفن شائع في العصر الحجري القديم الأعلى."
+                },
+                "estimated_date": "~25,000 BP",
+                "accession_number": "BR-CWB-SA-001",
+                "curator": "Dr. Alessia Fontana"
+            },
+            {
+                "id": "shell_headgear",
+                "name": {
+                    "en": "Shell Headgear",
+                    "it": "Copricapo con conchiglie",
+                    "fr": "Coiffe en coquillages",
+                    "de": "Kopfschmuck aus Muscheln",
+                    "ar": "غطاء رأس من الأصداف"
+                },
+                "material": "Marine shells",
+                "description": {
+                    "en": "A decorative headdress composed of pierced marine shells, found near the skull. Indicates personal adornment and symbolic meaning, possibly denoting status or identity.",
+                    "it": "Un copricapo decorativo composto da conchiglie marine forate, trovato vicino al cranio. Indica ornamento personale e significato simbolico, forse legato allo status o all’identità.",
+                    "fr": "Une coiffe décorative composée de coquillages marins percés, trouvée près du crâne. Témoigne d’un ornement personnel et d’une signification symbolique, peut-être liée au statut ou à l’identité.",
+                    "de": "Ein dekorativer Kopfschmuck aus durchbohrten Meeresschalen, nahe dem Schädel gefunden. Weist auf persönlichen Schmuck und symbolische Bedeutung hin, möglicherweise im Zusammenhang mit Status oder Identität.",
+                    "ar": "غطاء رأس زخرفي مصنوع من أصداف بحرية مثقوبة، وُجد بالقرب من الجمجمة. يدل على الزينة الشخصية والمعنى الرمزي، ربما متعلق بالمكانة أو الهوية."
+                },
+                "estimated_date": "~25,000 BP",
+                "accession_number": "BR-CWB-SA-002",
+                "curator": "Dr. Alessia Fontana"
+            },
+            {
+                "id": "deer_tooth_ornaments",
+                "name": {
+                    "en": "Deer-Tooth Ornaments",
+                    "it": "Ornamenti con denti di cervo",
+                    "fr": "Ornements en dents de cerf",
+                    "de": "Schmuck aus Hirschzähnen",
+                    "ar": "زينة من أسنان الغزال"
+                },
+                "material": "Deer teeth",
+                "description": {
+                    "en": "Several deer teeth with wear marks and perforations, likely used as decorative pendants or beads. Suggests symbolic use and advanced craftsmanship.",
+                    "it": "Diversi denti di cervo con segni di usura e forature, probabilmente usati come pendenti decorativi o perline. Indicano un uso simbolico e una lavorazione avanzata.",
+                    "fr": "Plusieurs dents de cerf avec des marques d’usure et des perforations, probablement utilisées comme pendentifs décoratifs ou perles. Témoignent d’un usage symbolique et d’un artisanat avancé.",
+                    "de": "Mehrere Hirschzähne mit Abnutzungsspuren und Durchbohrungen, vermutlich als dekorative Anhänger oder Perlen verwendet. Weisen auf symbolische Nutzung und fortgeschrittene Handwerkskunst hin.",
+                    "ar": "عدة أسنان غزال بها علامات تآكل وثقوب، يُرجح استخدامها كزينة معلقة أو خرزات. تشير إلى استخدام رمزي وحرفية متقدمة."
+                },
+                "estimated_date": "~25,000 BP",
+                "accession_number": "BR-CWB-SA-003",
+                "curator": "Dr. Alessia Fontana"
+            }
+        ]
+    },
+
+    {
+        "id": "man_of_menton_burial",
+        "name": {
+          "en": "Man of Menton Burial",
+          "it": "Sepoltura dell'Uomo di Mentone",
+          "fr": "Sépulture de l'Homme de Menton",
+          "de": "Bestattung des Mannes von Menton",
+          "ar": "دفن رجل منتون"
+        },
+        "type": "Upper Paleolithic Burial",
+        "period": "Gravettian (~22,000–20,000 BP)",
+        "estimated_date": "22,000–20,000 BP",
+        "accession_number": "BR-MOM-001",
+        "origin": "Balzi Rossi Caves, Ventimiglia, Italy",
+        "description": {
+          "en": "Skeletal remains of a tall Upper Paleolithic male found in an extended supine burial posture, often associated with elaborate symbolic burials. A cast is displayed in the museum.",
+          "it": "Resti scheletrici di un alto individuo maschile del Paleolitico superiore, sepolto in posizione supina estesa, spesso associata a sepolture simboliche elaborate. Un calco è esposto nel museo.",
+          "fr": "Restes squelettiques d’un grand homme du Paléolithique supérieur, trouvé en position allongée sur le dos, souvent liée à des enterrements symboliques élaborés. Un moulage est exposé au musée.",
+          "de": "Skelettreste eines großen Mannes aus dem Jungpaläolithikum, in ausgestreckter Rückenlage begraben – eine Position, die häufig mit symbolischen Bestattungen verbunden ist. Ein Abguss wird im Museum gezeigt.",
+          "ar": "بقايا هيكل عظمي لرجل طويل من العصر الحجري القديم الأعلى، وُجد في وضعية دفن مستلقٍ على الظهر، وغالبًا ما ترتبط هذه الوضعية بطقوس دفن رمزية. يُعرض نموذج منه في المتحف."
+        },
+        "significance": {
+          "en": "One of the most famous Paleolithic burials in Europe. It reveals insights into social status, burial rites, and symbolic practices of Gravettian humans.",
+          "it": "Una delle sepolture paleolitiche più famose d'Europa. Rivela informazioni sullo status sociale, sui riti funerari e sulle pratiche simboliche degli uomini del Gravettiano.",
+          "fr": "L'une des sépultures paléolithiques les plus célèbres d'Europe. Elle offre des informations sur le statut social, les rites funéraires et les pratiques symboliques des Gravettiens.",
+          "de": "Eine der bekanntesten paläolithischen Bestattungen Europas. Sie liefert Einblicke in den sozialen Status, Bestattungsriten und symbolische Praktiken der Gravettien-Menschen.",
+          "ar": "واحدة من أشهر حالات الدفن في أوروبا من العصر الحجري القديم. تكشف عن رؤى حول المكانة الاجتماعية والطقوس الجنائزية والممارسات الرمزية لدى إنسان الجرافيتيان."
+        },
+        "material": {
+          "en": "Human skeletal remains, flint, marine shells, ochre",
+          "it": "Resti scheletrici umani, selce, conchiglie marine, ocra",
+          "fr": "Restes squelettiques humains, silex, coquillages marins, ocre",
+          "de": "Menschliche Skelettreste, Feuerstein, Meeresmuscheln, Ocker",
+          "ar": "بقايا هيكل عظمي بشري، صوان، أصداف بحرية، مغرة"
+        },
+        "curator": "Dr. Chiara Benedetti",
+        "sub_artifacts": [
+          {
+            "id": "menton_flint_blade",
+            "name": {
+              "en": "Flint Blade",
+              "it": "Lama in selce",
+              "fr": "Lame en silex",
+              "de": "Feuersteinklinge",
+              "ar": "شفرة من الصوان"
+            },
+            "material": "Flint",
+            "description": {
+              "en": "A finely crafted flint blade found near the skeletal hand, possibly a tool or symbolic offering.",
+              "it": "Una lama in selce finemente lavorata trovata vicino alla mano scheletrica, forse un utensile o un'offerta simbolica.",
+              "fr": "Une lame en silex finement taillée trouvée près de la main du squelette, probablement un outil ou une offrande symbolique.",
+              "de": "Eine fein gearbeitete Feuersteinklinge, nahe der Hand des Skeletts gefunden – möglicherweise ein Werkzeug oder symbolische Beigabe.",
+              "ar": "شفرة من الصوان مصقولة بعناية عُثر عليها بالقرب من اليد، ربما كانت أداة أو قربانًا رمزيًا."
+            },
+            "estimated_date": "~21,000 BP",
+            "accession_number": "BR-MOM-001A",
+            "curator": "Dr. Luca Ferraro"
+          },
+          {
+            "id": "menton_shell_ornaments",
+            "name": {
+              "en": "Marine Shell Ornaments",
+              "it": "Ornamenti di conchiglie marine",
+              "fr": "Ornements en coquillages marins",
+              "de": "Meeresmuschel-Schmuckstücke",
+              "ar": "زينة من أصداف بحرية"
+            },
+            "material": "Shell",
+            "description": {
+              "en": "Small perforated shells likely used as decorative beads, possibly sewn onto clothing or used in ritual adornment.",
+              "it": "Piccole conchiglie perforate probabilmente usate come perline decorative, forse cucite sugli abiti o usate in ornamenti rituali.",
+              "fr": "Petits coquillages perforés probablement utilisés comme perles décoratives, cousus sur des vêtements ou pour des rites symboliques.",
+              "de": "Kleine durchbohrte Muscheln, wahrscheinlich als Zierperlen verwendet – möglicherweise auf Kleidung genäht oder für Rituale verwendet.",
+              "ar": "أصداف صغيرة مثقوبة استخدمت على الأرجح كخرز للزينة، ربما خيطت على الملابس أو استُخدمت في طقوس رمزية."
+            },
+            "estimated_date": "~21,500 BP",
+            "accession_number": "BR-MOM-001B",
+            "curator": "Dr. Hélène Dupuis"
+          },
+          {
+            "id": "menton_ochre_traces",
+            "name": {
+              "en": "Red Ochre Traces",
+              "it": "Tracce di ocra rossa",
+              "fr": "Traces d’ocre rouge",
+              "de": "Rote Ockerspuren",
+              "ar": "آثار المغرة الحمراء"
+            },
+            "material": "Ochre",
+            "description": {
+              "en": "Residues of red ochre found around the skeleton, possibly used in symbolic body treatment or burial rituals.",
+              "it": "Residui di ocra rossa trovati intorno allo scheletro, forse usati in trattamenti simbolici del corpo o nei riti funerari.",
+              "fr": "Résidus d’ocre rouge autour du squelette, probablement utilisés dans des pratiques rituelles ou symboliques.",
+              "de": "Rückstände von rotem Ocker um das Skelett herum – vermutlich für symbolische Körperbehandlungen oder Bestattungsrituale verwendet.",
+              "ar": "آثار مغرة حمراء عُثر عليها حول الهيكل العظمي، ربما استُخدمت في طقوس رمزية أو جنائزية."
+            },
+            "estimated_date": "~22,000 BP",
+            "accession_number": "BR-MOM-001C",
+            "curator": "Prof. Elisa Marini"
+          },
+          {
+            "id": "menton_deer_canine_pendants",
+            "name": {
+              "en": "Pierced Deer Canine Pendants",
+              "it": "Pendenti di canini di cervo perforati",
+              "fr": "Pendentifs en canines de cerf perforées",
+              "de": "Durchbohrte Hirschreißzahn-Anhänger",
+              "ar": "قلائد من أنياب الغزلان المثقوبة"
+            },
+            "material": "Bone/Tooth",
+            "description": {
+              "en": "Pierced canine teeth from red deer, likely used as decorative pendants in necklaces or sewn onto burial attire.",
+              "it": "Canini perforati di cervo rosso, probabilmente usati come pendenti decorativi in collane o cuciti sull'abbigliamento funerario.",
+              "fr": "Dents canines perforées de cerf roux, probablement utilisées comme pendentifs décoratifs dans des colliers ou cousues sur les vêtements funéraires.",
+              "de": "Durchbohrte Reißzähne von Rothirschen, wahrscheinlich als Zieranhänger in Halsketten oder auf Bestattungskleidung genäht.",
+              "ar": "أنياب مثقوبة لغزلان حمراء، يُحتمل أنها استُخدمت كقلائد زخرفية في عقود أو خُيطت على ملابس الدفن."
+            },
+            "estimated_date": "~21,000 BP",
+            "accession_number": "BR-MOM-001D",
+            "curator": "Dr. Alessandro Rossi"
+          }
+        ]
+    },
+
+    {
+        "id": "grimaldi_women_burials",
+        "name": {
+          "en": "Grimaldi Woman Burials",
+          "it": "Sepolture delle Donne di Grimaldi",
+          "fr": "Sépultures des Femmes de Grimaldi",
+          "de": "Gräber der Frauen von Grimaldi",
+          "ar": "مدافن نساء غريمالدي"
+        },
+        "type": "Upper Paleolithic Burial",
+        "period": "Gravettian (~24,000 BP)",
+        "estimated_date": "ca. 24,000 BP",
+        "accession_number": "BR-GRB-001",
+        "origin": "Baousse-Rousse, Balzi Rossi, Italy",
+        "description": {
+          "en": "This double burial features two adolescent female individuals, interred with decorative objects, ochre, and personal adornments. Discovered in the Grimaldi area, it reflects elaborate Upper Paleolithic funerary practices.",
+          "it": "Questa doppia sepoltura presenta due individui femminili adolescenti, sepolti con oggetti decorativi, ocra e ornamenti personali. Scoperta nell'area di Grimaldi, riflette elaborate pratiche funerarie del Paleolitico superiore.",
+          "fr": "Cette double sépulture contient deux jeunes femmes, inhumées avec des objets décoratifs, de l'ocre et des parures personnelles. Découverte dans la région de Grimaldi, elle reflète les pratiques funéraires élaborées du Paléolithique supérieur.",
+          "de": "Dieses Doppelgrab enthält zwei jugendliche weibliche Individuen, bestattet mit Dekorationsgegenständen, Ocker und persönlichem Schmuck. In der Region Grimaldi entdeckt, zeigt es aufwendige Bestattungspraktiken des Jungpaläolithikums.",
+          "ar": "تحتوي هذه المدافن المزدوجة على فتاتين مراهقتين، دُفنتا مع أشياء زخرفية ومغرة وزينة شخصية. تم اكتشافها في منطقة غريمالدي، وتعكس طقوس الدفن المتقنة في العصر الحجري القديم الأعلى."
+        },
+        "significance": {
+          "en": "Important evidence of social and symbolic behaviors among Gravettian humans, particularly in adolescent burials. The grave goods suggest status and personal identity expression.",
+          "it": "Prova importante dei comportamenti sociali e simbolici tra gli uomini del Gravettiano, in particolare nelle sepolture adolescenziali. I corredi funerari suggeriscono status ed espressione dell'identità personale.",
+          "fr": "Preuve importante des comportements sociaux et symboliques chez les Gravettiens, en particulier dans les sépultures adolescentes. Les objets funéraires suggèrent un statut et une expression de l'identité personnelle.",
+          "de": "Wichtiger Beleg für soziales und symbolisches Verhalten unter Gravettien-Menschen, insbesondere bei jugendlichen Bestattungen. Die Grabbeigaben deuten auf Status und persönliche Identität hin.",
+          "ar": "دليل مهم على السلوك الاجتماعي والرمزي لدى إنسان الجرافيتيان، خاصة في دفن المراهقين. تشير الأدوات الجنائزية إلى المكانة والتعبير عن الهوية الشخصية."
+        },
+        "material": {
+          "en": "Human remains, red ochre, shell beads, deer tooth pendants",
+          "it": "Resti umani, ocra rossa, perline di conchiglia, pendenti di dente di cervo",
+          "fr": "Restes humains, ocre rouge, perles en coquillage, pendentifs en dents de cerf",
+          "de": "Menschliche Überreste, roter Ocker, Muschelperlen, Hirschzahn-Anhänger",
+          "ar": "رفات بشرية، مغرة حمراء، خرز من الأصداف، قلائد من أنياب الغزلان"
+        },
+        "curator": "Dr. Elena Vitale",
+        "sub_artifacts": [
+          {
+            "id": "grimaldi_shell_beads",
+            "name": {
+              "en": "Shell Beads",
+              "it": "Perline di conchiglia",
+              "fr": "Perles de coquillage",
+              "de": "Muschelperlen",
+              "ar": "خرز الأصداف"
+            },
+            "material": "Shell",
+            "description": {
+              "en": "Small perforated shell beads likely part of necklaces or garments, representing both aesthetic and symbolic use.",
+              "it": "Piccole perline di conchiglia perforate, probabilmente parte di collane o abiti, con significato estetico e simbolico.",
+              "fr": "Petites perles de coquillage perforées, probablement utilisées dans des colliers ou vêtements, à la fois esthétiques et symboliques.",
+              "de": "Kleine durchbohrte Muschelperlen, wahrscheinlich Teil von Halsketten oder Kleidung – ästhetisch und symbolisch bedeutsam.",
+              "ar": "خرزات صغيرة مثقوبة من الأصداف، ربما كانت جزءًا من العقود أو الملابس، تحمل دلالات جمالية ورمزية."
+            },
+            "estimated_date": "~24,000 BP",
+            "accession_number": "BR-GRB-001A",
+            "curator": "Dr. Massimo Greco"
+          },
+          {
+            "id": "grimaldi_ochre_traces",
+            "name": {
+              "en": "Red Ochre Residue",
+              "it": "Residui di ocra rossa",
+              "fr": "Résidus d’ocre rouge",
+              "de": "Rückstände von rotem Ocker",
+              "ar": "بقايا مغرة حمراء"
+            },
+            "material": "Ochre",
+            "description": {
+              "en": "Red ochre traces suggest symbolic or ritual use during burial, possibly related to purification or afterlife beliefs.",
+              "it": "Le tracce di ocra rossa suggeriscono un uso simbolico o rituale durante la sepoltura, forse legato a credenze di purificazione o vita ultraterrena.",
+              "fr": "Les résidus d’ocre rouge suggèrent une utilisation symbolique ou rituelle lors de l’inhumation, peut-être liée à des croyances sur la purification ou l’au-delà.",
+              "de": "Roter Ocker weist auf symbolischen oder rituellen Gebrauch bei der Bestattung hin – möglicherweise mit Reinigungs- oder Jenseitsvorstellungen verbunden.",
+              "ar": "تشير آثار المغرة الحمراء إلى استخدامها الرمزي أو الطقسي خلال الدفن، ربما متعلقة بمعتقدات عن التطهير أو الحياة بعد الموت."
+            },
+            "estimated_date": "~24,000 BP",
+            "accession_number": "BR-GRB-001B",
+            "curator": "Prof. Isabelle Garnier"
+          },
+          {
+            "id": "grimaldi_deer_pendant",
+            "name": {
+              "en": "Deer Tooth Pendant",
+              "it": "Pendente di dente di cervo",
+              "fr": "Pendentif en dent de cerf",
+              "de": "Hirschzahn-Anhänger",
+              "ar": "قلادة من ناب الغزال"
+            },
+            "material": "Tooth/Bone",
+            "description": {
+              "en": "A pierced deer tooth, possibly worn as a necklace or part of burial attire, reflecting symbolic or social meaning.",
+              "it": "Un dente di cervo perforato, forse indossato come collana o parte dell'abbigliamento funerario, con significato simbolico o sociale.",
+              "fr": "Une dent de cerf perforée, probablement portée comme collier ou faisant partie de l’habillement funéraire, à signification symbolique ou sociale.",
+              "de": "Ein durchbohrter Hirschzahn, möglicherweise als Halskette oder Bestandteil der Bestattungskleidung getragen – symbolische oder soziale Bedeutung.",
+              "ar": "ناب غزال مثقوب، ربما ارتُدي كعقد أو جزء من ملابس الدفن، يعكس معنى رمزيًا أو اجتماعيًا."
+            },
+            "estimated_date": "~24,000 BP",
+            "accession_number": "BR-GRB-001C",
+            "curator": "Dr. Riccardo Bianchi"
+          }
+        ]
+    },
+
+    {
+        "id": "baousse_rousse_child_burial",
+        "name": {
+          "en": "Baousse-Rousse Child Burial",
+          "it": "Sepoltura del Bambino di Baousse-Rousse",
+          "fr": "Sépulture de l’Enfant de Baousse-Rousse",
+          "de": "Kindergrab von Baousse-Rousse",
+          "ar": "دفن الطفل في باوس روس"
+        },
+        "type": "Upper Paleolithic Burial",
+        "period": "Gravettian (~25,000 BP)",
+        "estimated_date": "ca. 25,000 BP",
+        "accession_number": "BR-BRC-001",
+        "origin": "Baousse-Rousse Cave, Balzi Rossi, Italy",
+        "description": {
+          "en": "A single burial of a child discovered in the Baousse-Rousse cave, accompanied by red ochre and a few personal ornaments. This burial reflects complex symbolic behaviors even in early childhood during the Upper Paleolithic.",
+          "it": "Sepoltura singola di un bambino scoperta nella grotta di Baousse-Rousse, accompagnata da ocra rossa e alcuni ornamenti personali. Questa sepoltura riflette comportamenti simbolici complessi anche nella prima infanzia durante il Paleolitico superiore.",
+          "fr": "Une sépulture individuelle d’un enfant découverte dans la grotte de Baousse-Rousse, accompagnée d’ocre rouge et de quelques ornements personnels. Cette sépulture reflète des comportements symboliques complexes dès la petite enfance au Paléolithique supérieur.",
+          "de": "Einzelgrab eines Kindes in der Höhle von Baousse-Rousse, begleitet von rotem Ocker und einigen persönlichen Schmuckstücken. Das Grab zeugt von komplexem symbolischem Verhalten bereits im frühen Kindesalter während des Jungpaläolithikums.",
+          "ar": "دفن منفرد لطفل تم اكتشافه في كهف باوس روس، برفقة مغرة حمراء وبعض الزينة الشخصية. يعكس هذا الدفن سلوكيات رمزية معقدة حتى في سن الطفولة المبكرة خلال العصر الحجري القديم الأعلى."
+        },
+        "significance": {
+          "en": "One of the earliest known symbolic child burials in Europe. The presence of ochre and ornaments suggests the recognition of personhood and identity even in children.",
+          "it": "Una delle più antiche sepolture simboliche conosciute di bambini in Europa. La presenza di ocra e ornamenti suggerisce il riconoscimento della personalità e dell'identità anche nei bambini.",
+          "fr": "L'une des plus anciennes sépultures symboliques connues d’enfants en Europe. La présence d’ocre et d’ornements suggère une reconnaissance de la personnalité et de l’identité même chez les enfants.",
+          "de": "Eines der frühesten bekannten symbolischen Kindergräber Europas. Das Vorhandensein von Ocker und Schmuck weist auf die Anerkennung von Individualität und Identität auch bei Kindern hin.",
+          "ar": "واحدة من أقدم حالات الدفن الرمزي المعروفة للأطفال في أوروبا. تشير المغرة والزينة إلى إدراك الهوية والشخصية حتى عند الأطفال."
+        },
+        "material": {
+          "en": "Human remains, red ochre, shell ornaments",
+          "it": "Resti umani, ocra rossa, ornamenti in conchiglia",
+          "fr": "Restes humains, ocre rouge, ornements en coquillage",
+          "de": "Menschliche Überreste, roter Ocker, Muschelornamente",
+          "ar": "رفات بشرية، مغرة حمراء، زينة من الأصداف"
+        },
+        "curator": "Dr. Giulia Ferrero",
+        "sub_artifacts": [
+          {
+            "id": "baousse_ochre_fragment",
+            "name": {
+              "en": "Red Ochre Fragment",
+              "it": "Frammento di Ocra Rossa",
+              "fr": "Fragment d’Ocre Rouge",
+              "de": "Fragment von rotem Ocker",
+              "ar": "شظية مغرة حمراء"
+            },
+            "material": "Ochre",
+            "description": {
+              "en": "Small fragment of red ochre found near the child’s cranium, indicating ritualistic use during burial.",
+              "it": "Piccolo frammento di ocra rossa trovato vicino al cranio del bambino, indicativo di un uso rituale durante la sepoltura.",
+              "fr": "Petit fragment d’ocre rouge trouvé près du crâne de l’enfant, indiquant un usage rituel lors de la sépulture.",
+              "de": "Kleines Fragment von rotem Ocker nahe dem Schädel des Kindes, was auf rituelle Verwendung bei der Bestattung hinweist.",
+              "ar": "شظية صغيرة من المغرة الحمراء وُجدت قرب جمجمة الطفل، مما يشير إلى استخدامها الطقسي أثناء الدفن."
+            },
+            "estimated_date": "~25,000 BP",
+            "accession_number": "BR-BRC-001A",
+            "curator": "Dr. Laura Benassi"
+          },
+          {
+            "id": "baousse_shell_ornament",
+            "name": {
+              "en": "Shell Ornament",
+              "it": "Ornamento in conchiglia",
+              "fr": "Ornement en coquillage",
+              "de": "Muschelschmuck",
+              "ar": "زينة من الأصداف"
+            },
+            "material": "Shell",
+            "description": {
+              "en": "Perforated shell likely worn as a pendant or attached to burial clothing. Indicates symbolic expression.",
+              "it": "Conchiglia perforata probabilmente indossata come pendente o attaccata ai vestiti funerari. Indica espressione simbolica.",
+              "fr": "Coquillage perforé probablement porté comme pendentif ou attaché aux vêtements funéraires. Témoigne d’une expression symbolique.",
+              "de": "Durchbohrte Muschel, wahrscheinlich als Anhänger getragen oder an der Bestattungskleidung befestigt – Ausdruck symbolischer Bedeutung.",
+              "ar": "صدفة مثقوبة ربما استُخدمت كقلادة أو زُينت بها ملابس الدفن. تدل على تعبير رمزي."
+            },
+            "estimated_date": "~25,000 BP",
+            "accession_number": "BR-BRC-001B",
+            "curator": "Prof. Luca Romano"
+          }
+        ]
+    },
+
+    {
+        "id": "flint_tools_balzi_rossi",
+        "name": {
+          "en": "Flint Tools",
+          "it": "Strumenti in selce",
+          "fr": "Outils en silex",
+          "de": "Feuersteinwerkzeuge",
+          "ar": "أدوات من الصوان"
+        },
+        "type": "Lithic Industry",
+        "period": "Aurignacian to Gravettian (ca. 35,000–22,000 BP)",
+        "estimated_date": "ca. 35,000–22,000 BP",
+        "accession_number": "BR-FLT-001",
+        "origin": "Balzi Rossi Caves, Liguria, Italy",
+        "description": {
+          "en": "A diverse collection of flint tools including scrapers, blades, burins, and points used by early Homo sapiens for hunting, processing, and crafting. These artifacts demonstrate the technological skill and adaptation of Upper Paleolithic societies.",
+          "it": "Una collezione diversificata di strumenti in selce, tra cui raschiatoi, lame, bulini e punte, utilizzati dai primi Homo sapiens per cacciare, lavorare materiali e creare oggetti. Questi reperti mostrano l'abilità tecnologica delle società del Paleolitico superiore.",
+          "fr": "Une collection variée d’outils en silex comprenant grattoirs, lames, burins et pointes, utilisés par les premiers Homo sapiens pour la chasse, le traitement et l’artisanat. Ces objets illustrent l’ingéniosité technologique des sociétés du Paléolithique supérieur.",
+          "de": "Eine vielfältige Sammlung von Feuersteinwerkzeugen – darunter Schaber, Klingen, Stichel und Spitzen – verwendet von frühen Homo sapiens zum Jagen, Bearbeiten und Herstellen. Sie zeigen die technologische Fähigkeit der jungpaläolithischen Gesellschaften.",
+          "ar": "مجموعة متنوعة من الأدوات المصنوعة من الصوان، تشمل الكاشطات، الشفرات، المخرزات، والرؤوس، استخدمها الإنسان العاقل المبكر في الصيد والمعالجة وصنع الأدوات. تعكس هذه القطع الأثرية المهارة التكنولوجية لمجتمعات العصر الحجري القديم الأعلى."
+        },
+        "significance": {
+          "en": "Provides insight into tool-making traditions, mobility strategies, and daily life of early modern humans in southern Europe.",
+          "it": "Offre informazioni sulle tradizioni di produzione degli strumenti, le strategie di mobilità e la vita quotidiana dei primi uomini moderni nell'Europa meridionale.",
+          "fr": "Donne un aperçu des traditions de fabrication d’outils, des stratégies de mobilité et de la vie quotidienne des premiers humains modernes en Europe du Sud.",
+          "de": "Gibt Einblick in die Werkzeugherstellung, Mobilitätsstrategien und das Alltagsleben früher moderner Menschen in Südeuropa.",
+          "ar": "يوفر رؤى حول تقاليد صناعة الأدوات، واستراتيجيات التنقل، والحياة اليومية للإنسان الحديث المبكر في جنوب أوروبا."
+        },
+        "material": {
+          "en": "Flint",
+          "it": "Selce",
+          "fr": "Silex",
+          "de": "Feuerstein",
+          "ar": "صوان"
+        },
+        "curator": "Dr. Marco Bellini",
+        "sub_artifacts": [
+          {
+            "id": "flint_scraper_balzi_rossi",
+            "name": {
+              "en": "End Scraper",
+              "it": "Raschiatoio terminale",
+              "fr": "Grattoir terminal",
+              "de": "Endschaber",
+              "ar": "كاشط طرفي"
+            },
+            "material": "Flint",
+            "description": {
+              "en": "Used for cleaning hides or wood, showing polish and use-wear at the edge. Characteristic of Gravettian toolkit.",
+              "it": "Utilizzato per pulire pelli o legno, mostra lucidatura e tracce d'uso lungo il bordo. Caratteristico del kit di strumenti gravettiano.",
+              "fr": "Utilisé pour nettoyer les peaux ou le bois, présente un polissage et des traces d’usure sur le bord. Typique de l’outillage gravettien.",
+              "de": "Zum Reinigen von Häuten oder Holz verwendet, mit Politur und Gebrauchsspuren an der Schneide. Charakteristisch für gravettische Werkzeugsets.",
+              "ar": "استُخدم لتنظيف الجلود أو الخشب، ويُظهر تلميعًا وآثار استخدام على الحافة. من سمات أدوات العصر الجرافيتياني."
+            },
+            "estimated_date": "~25,000 BP",
+            "accession_number": "BR-FLT-001A",
+            "curator": "Dr. Claudia Rossini"
+          },
+          {
+            "id": "flint_burin_balzi_rossi",
+            "name": {
+              "en": "Burin",
+              "it": "Bulino",
+              "fr": "Burin",
+              "de": "Stichel",
+              "ar": "مخرز"
+            },
+            "material": "Flint",
+            "description": {
+              "en": "A flint burin tool used to engrave bone or antler, with angled working edge formed by intentional retouch.",
+              "it": "Uno strumento bulino in selce utilizzato per incidere ossa o corna, con un bordo obliquo formato da ritocchi intenzionali.",
+              "fr": "Outil burin en silex utilisé pour graver l’os ou le bois de cervidé, avec un bord anglé façonné par retouches.",
+              "de": "Ein Feuersteinstichel zum Gravieren von Knochen oder Geweih, mit schräger Kante durch gezielte Retuschen.",
+              "ar": "أداة مخرز من الصوان استُخدمت لنقش العظام أو قرون الحيوانات، بحافة مشطوفة ناتجة عن تشكيل دقيق."
+            },
+            "estimated_date": "~28,000 BP",
+            "accession_number": "BR-FLT-001B",
+            "curator": "Prof. Thomas Leclerc"
+          }
+        ]
+    },
+
+    {
+        "id": "engraved_bones_balzi_rossi",
+        "name": {
+          "en": "Engraved Bones",
+          "it": "Ossa incise",
+          "fr": "Os gravés",
+          "de": "Gravierte Knochen",
+          "ar": "عظام منقوشة"
+        },
+        "type": "Symbolic Artifact",
+        "period": "Upper Paleolithic (ca. 30,000–20,000 BP)",
+        "estimated_date": "ca. 30,000–20,000 BP",
+        "accession_number": "BR-ENG-001",
+        "origin": "Balzi Rossi Caves, Liguria, Italy",
+        "description": {
+          "en": "A set of bones and antler fragments bearing incised geometric patterns, hatch marks, and lines. These engravings are considered symbolic or communicative, possibly linked to early counting systems, calendrical marks, or spiritual expression.",
+          "it": "Un insieme di ossa e frammenti di corna recanti incisioni geometriche, segni e linee. Queste incisioni sono considerate simboliche o comunicative, forse legate a sistemi di conteggio, segni calendari o espressioni spirituali.",
+          "fr": "Un ensemble d’os et de fragments de bois de cervidé portant des motifs géométriques gravés, des hachures et des lignes. Ces gravures sont considérées comme symboliques ou communicatives, peut-être liées au comptage, aux calendriers ou à l’expression spirituelle.",
+          "de": "Eine Sammlung von Knochen- und Geweihfragmenten mit eingeritzten geometrischen Mustern, Strichen und Linien. Die Gravuren gelten als symbolisch oder kommunikativ – möglicherweise frühe Zählsysteme, Kalenderzeichen oder spirituelle Ausdrucksformen.",
+          "ar": "مجموعة من العظام وشظايا القرون المحفورة بأنماط هندسية وخطوط متقاطعة وخطوط محفورة. تُعتبر هذه النقوش رمزية أو تواصلية، وربما ترتبط بأنظمة عدّ مبكرة أو علامات تقويمية أو تعبيرات روحية."
+        },
+        "significance": {
+          "en": "Represents some of the earliest known symbolic behavior in Europe, reflecting abstract thought and cultural development.",
+          "it": "Rappresenta alcuni dei primi comportamenti simbolici conosciuti in Europa, riflettendo il pensiero astratto e lo sviluppo culturale.",
+          "fr": "Représente certains des plus anciens comportements symboliques connus en Europe, témoignant de la pensée abstraite et du développement culturel.",
+          "de": "Stellt eines der frühesten bekannten symbolischen Verhaltensweisen in Europa dar und spiegelt abstraktes Denken und kulturelle Entwicklung wider.",
+          "ar": "تمثل بعض أقدم السلوكيات الرمزية المعروفة في أوروبا، مما يعكس التفكير المجرد والتطور الثقافي."
+        },
+        "material": {
+          "en": "Bone, antler",
+          "it": "Osso, corno",
+          "fr": "Os, bois de cervidé",
+          "de": "Knochen, Geweih",
+          "ar": "عظم، قرن"
+        },
+        "curator": "Prof. Isabelle Garnier",
+        "sub_artifacts": [
+          {
+            "id": "engraved_reindeer_bone",
+            "name": {
+              "en": "Engraved Reindeer Bone",
+              "it": "Osso di renna inciso",
+              "fr": "Os gravé de renne",
+              "de": "Gravierter Rentierknochen",
+              "ar": "عظم رنة محفور"
+            },
+            "material": "Bone",
+            "description": {
+              "en": "A reindeer bone fragment featuring parallel engraved lines, possibly denoting time or quantities. Interpreted as an early tally or symbolic notation.",
+              "it": "Un frammento di osso di renna con linee incise parallele, forse a indicare il tempo o quantità. Interpretato come un primitivo sistema di conteggio o notazione simbolica.",
+              "fr": "Un fragment d’os de renne portant des lignes gravées parallèles, peut-être indicatives du temps ou de quantités. Interprété comme une notation symbolique primitive.",
+              "de": "Ein Rentierknochenfragment mit parallelen Gravurlinien, möglicherweise zur Zeit- oder Mengendarstellung. Gedeutet als frühe symbolische Notation.",
+              "ar": "شظية عظم رنة محفورة بخطوط متوازية، ربما تشير إلى الوقت أو الكميات. يُفسر على أنه نظام ترميز أو عدّ بدائي."
+            },
+            "estimated_date": "~24,000 BP",
+            "accession_number": "BR-ENG-001A",
+            "curator": "Dr. Marco Bellini"
+          }
+        ]
+    },
+
+    {
+        "id": "faunal_remains_balzi_rossi",
+        "name": {
+          "en": "Faunal Remains",
+          "it": "Resti faunistici",
+          "fr": "Restes fauniques",
+          "de": "Tierische Überreste",
+          "ar": "بقايا حيوانية"
+        },
+        "type": "Paleolithic Faunal Assemblage",
+        "period": "Upper Paleolithic (ca. 35,000–12,000 BP)",
+        "estimated_date": "ca. 35,000–12,000 BP",
+        "accession_number": "BR-FAU-001",
+        "origin": "Balzi Rossi Caves, Liguria, Italy",
+        "description": {
+          "en": "A diverse collection of animal bones from species such as ibex, red deer, horse, and cave bear. These remains provide insights into Paleolithic hunting practices, dietary habits, and local ecology.",
+          "it": "Una raccolta diversificata di ossa animali di specie come stambecco, cervo rosso, cavallo e orso delle caverne. Questi resti offrono informazioni sulle pratiche di caccia del Paleolitico, le abitudini alimentari e l'ecologia locale.",
+          "fr": "Une collection diversifiée d’os d’animaux comme le bouquetin, le cerf élaphe, le cheval et l’ours des cavernes. Ces restes fournissent des informations sur les pratiques de chasse paléolithiques, les régimes alimentaires et l’écologie locale.",
+          "de": "Eine vielfältige Sammlung tierischer Knochen von Steinbock, Rothirsch, Pferd und Höhlenbär. Diese Funde liefern Einblicke in jagdliche Praktiken, Ernährung und lokale Ökologie im Paläolithikum.",
+          "ar": "مجموعة متنوعة من عظام الحيوانات من أنواع مثل الماعز الجبلي، والغزال الأحمر، والحصان، والدب الكهفي. توفر هذه البقايا رؤى حول ممارسات الصيد في العصر الحجري القديم، والعادات الغذائية، والبيئة المحلية."
+        },
+        "significance": {
+          "en": "Key to understanding the subsistence strategies and environmental context of Upper Paleolithic humans at Balzi Rossi.",
+          "it": "Fondamentale per comprendere le strategie di sussistenza e il contesto ambientale degli esseri umani del Paleolitico superiore a Balzi Rossi.",
+          "fr": "Essentiel pour comprendre les stratégies de subsistance et le contexte environnemental des humains du Paléolithique supérieur à Balzi Rossi.",
+          "de": "Wesentlich für das Verständnis der Überlebensstrategien und des Umweltkontexts paläolithischer Menschen in Balzi Rossi.",
+          "ar": "مفتاح لفهم استراتيجيات البقاء والسياق البيئي لإنسان العصر الحجري القديم الأعلى في بالزي روسي."
+        },
+        "material": {
+          "en": "Bone",
+          "it": "Osso",
+          "fr": "Os",
+          "de": "Knochen",
+          "ar": "عظم"
+        },
+        "curator": "Dr. Matteo Ruggeri",
+        "sub_artifacts": [
+          {
+            "id": "ibex_long_bone_fragment",
+            "name": {
+              "en": "Ibex Long Bone Fragment",
+              "it": "Frammento di osso lungo di stambecco",
+              "fr": "Fragment d’os long de bouquetin",
+              "de": "Fragment eines Steinbocklangknochens",
+              "ar": "شظية عظم طويل لماعز جبلي"
+            },
+            "material": "Bone",
+            "description": {
+              "en": "A fractured long bone from an ibex, showing cut marks and evidence of marrow extraction, indicative of butchering activity.",
+              "it": "Un osso lungo fratturato di stambecco, con segni di taglio ed evidenza di estrazione del midollo, indicativi di attività di macellazione.",
+              "fr": "Un os long de bouquetin fracturé, montrant des marques de coupe et des traces d’extraction de moelle, indiquant une activité de boucherie.",
+              "de": "Ein gebrochener Langknochen eines Steinbocks mit Schnittspuren und Anzeichen von Markentnahme – Hinweis auf Zerlegungsaktivitäten.",
+              "ar": "عظم طويل مكسور لماعز جبلي يظهر عليه علامات تقطيع ودلائل على استخراج النخاع، مما يشير إلى نشاط الذبح."
+            },
+            "estimated_date": "~26,000 BP",
+            "accession_number": "BR-FAU-001A",
+            "curator": "Dr. Matteo Ruggeri"
+          }
+        ]
+    },
+    
+    {
+        "id": "red_ochre_fragments_balzi_rossi",
+        "name": {
+          "en": "Red Ochre Fragments",
+          "it": "Frammenti di ocra rossa",
+          "fr": "Fragments d’ocre rouge",
+          "de": "Fragmente von rotem Ocker",
+          "ar": "شظايا مغرة حمراء"
+        },
+        "type": "Pigment/Colorant Deposit",
+        "period": "Upper Paleolithic",
+        "estimated_date": "ca. 30,000–20,000 BP",
+        "accession_number": "BR-OCR-001",
+        "origin": "Balzi Rossi Caves, Liguria, Italy",
+        "description": {
+          "en": "Isolated red ochre fragments not directly associated with burials or ornamentation. Likely stored or used independently for symbolic, artistic, or ritual purposes.",
+          "it": "Frammenti isolati di ocra rossa non direttamente associati a sepolture o ornamenti. Probabilmente conservati o usati indipendentemente a fini simbolici, artistici o rituali.",
+          "fr": "Fragments isolés d’ocre rouge non directement associés à des sépultures ou des ornements. Probablement stockés ou utilisés indépendamment à des fins symboliques, artistiques ou rituelles.",
+          "de": "Isolierte Fragmente von rotem Ocker, nicht direkt mit Bestattungen oder Schmuck verbunden. Wahrscheinlich unabhängig verwendet für symbolische, künstlerische oder rituelle Zwecke.",
+          "ar": "شظايا مغرة حمراء معزولة غير مرتبطة مباشرةً بالمدافن أو الزينة. يُحتمل أنها كانت مخزنة أو مستخدمة بشكل مستقل لأغراض رمزية أو فنية أو طقسية."
+        },
+        "significance": {
+          "en": "Suggests the deliberate collection and use of pigment in non-funerary contexts, highlighting the symbolic behavior of Upper Paleolithic humans.",
+          "it": "Suggerisce la raccolta e l'uso deliberato di pigmento in contesti non funerari, evidenziando il comportamento simbolico degli esseri umani del Paleolitico superiore.",
+          "fr": "Suggère la collecte et l’utilisation délibérée de pigment dans des contextes non funéraires, soulignant le comportement symbolique des humains du Paléolithique supérieur.",
+          "de": "Weist auf die bewusste Sammlung und Verwendung von Pigment in nicht-bestattungsbezogenen Kontexten hin – ein Zeichen für symbolisches Verhalten im Jungpaläolithikum.",
+          "ar": "يشير إلى الجمع المتعمد للمادة الملونة واستخدامها في سياقات غير جنائزية، مما يسلط الضوء على السلوك الرمزي لإنسان العصر الحجري القديم الأعلى."
+        },
+        "material": {
+          "en": "Red ochre (iron oxide)",
+          "it": "Ocra rossa (ossido di ferro)",
+          "fr": "Ocre rouge (oxyde de fer)",
+          "de": "Roter Ocker (Eisenoxid)",
+          "ar": "مغرة حمراء (أكسيد الحديد)"
+        },
+        "curator": "Prof. Lucia Ferretti",
+        "sub_artifacts": [
+          {
+            "id": "ochre_fragment_lump_a",
+            "name": {
+              "en": "Large Red Ochre Lump",
+              "it": "Grande pezzo di ocra rossa",
+              "fr": "Gros morceau d’ocre rouge",
+              "de": "Großes Stück roter Ocker",
+              "ar": "كتلة كبيرة من المغرة الحمراء"
+            },
+            "material": "Ochre",
+            "description": {
+              "en": "A naturally formed lump of red ochre, showing signs of scraping or grinding on one surface, possibly used as a pigment source.",
+              "it": "Un pezzo naturale di ocra rossa che mostra segni di raschiatura o macinatura su una superficie, probabilmente usato come fonte di pigmento.",
+              "fr": "Morceau naturel d’ocre rouge avec des traces de grattage ou broyage, probablement utilisé comme source de pigment.",
+              "de": "Natürliches Stück roter Ocker mit Schleif- oder Kratzspuren – möglicherweise als Pigmentquelle verwendet.",
+              "ar": "كتلة طبيعية من المغرة الحمراء تظهر عليها علامات الكشط أو الطحن، ربما استُخدمت كمصدر للصبغة."
+            },
+            "estimated_date": "~25,000 BP",
+            "accession_number": "BR-OCR-001A",
+            "curator": "Prof. Lucia Ferretti"
+          }
+        ]
+      },
+
+      {
+        "id": "shell_ornaments",
+        "name": {
+          "en": "Shell Ornaments",
+          "it": "Ornamenti in Conchiglia",
+          "fr": "Ornements en Coquillage",
+          "de": "Muschelschmuck",
+          "ar": "زينة الأصداف"
+        },
+        "type": "Personal Adornment",
+        "period": "Upper Paleolithic",
+        "estimated_date": "ca. 24,000–22,000 BP",
+        "accession_number": "BR-SHO-001",
+        "origin": "Balzi Rossi Caves, Italy",
+        "description": {
+          "en": "A collection of perforated marine shells used as beads, likely worn as necklaces or sewn onto clothing. These ornaments reflect symbolic behavior and possibly social identity.",
+          "it": "Una collezione di conchiglie marine perforate utilizzate come perline, probabilmente indossate come collane o cucite sui vestiti. Questi ornamenti riflettono comportamenti simbolici e forse un'identità sociale.",
+          "fr": "Une collection de coquilles marines perforées utilisées comme perles, probablement portées en colliers ou cousues sur des vêtements. Ces ornements reflètent un comportement symbolique et peut-être une identité sociale.",
+          "de": "Eine Sammlung perforierter Meeresschalen, die wahrscheinlich als Halsketten getragen oder auf Kleidung genäht wurden. Diese Ornamente spiegeln symbolisches Verhalten und möglicherweise soziale Identität wider.",
+          "ar": "مجموعة من الأصداف البحرية المثقوبة المستخدمة كخرز، ربما كانت تُرتدى كعقود أو تُخاط على الملابس. تعكس هذه الزينة سلوكًا رمزيًا وربما هوية اجتماعية."
+        },
+        "significance": {
+          "en": "These artifacts offer insights into symbolic communication, aesthetic expression, and potentially trade or mobility patterns in Upper Paleolithic societies.",
+          "it": "Questi manufatti offrono intuizioni sulla comunicazione simbolica, l'espressione estetica e potenzialmente i modelli di scambio o mobilità nelle società del Paleolitico superiore.",
+          "fr": "Ces artefacts offrent un aperçu de la communication symbolique, de l'expression esthétique et potentiellement des échanges ou des mouvements dans les sociétés du Paléolithique supérieur.",
+          "de": "Diese Artefakte geben Einblicke in symbolische Kommunikation, ästhetischen Ausdruck und möglicherweise Handels- oder Mobilitätsmuster in jungpaläolithischen Gesellschaften.",
+          "ar": "توفر هذه القطع الأثرية رؤى حول التواصل الرمزي، والتعبير الجمالي، وربما أنماط التجارة أو التنقل في مجتمعات العصر الحجري القديم الأعلى."
+        },
+        "material": {
+          "en": "Marine shells, primarily Nassarius",
+          "it": "Conchiglie marine, principalmente Nassarius",
+          "fr": "Coquilles marines, principalement Nassarius",
+          "de": "Meeresschalen, hauptsächlich Nassarius",
+          "ar": "أصداف بحرية، خاصة من نوع ناسياريوس"
+        },
+        "curator": "Prof. Laura Benedetti",
+        "sub_artifacts": [
+          {
+            "id": "nassarius_shell_beads",
+            "name": {
+              "en": "Nassarius Shell Beads",
+              "it": "Perline di Conchiglia Nassarius",
+              "fr": "Perles en Coquille de Nassarius",
+              "de": "Nassarius-Muschelperlen",
+              "ar": "خرز أصداف ناسياريوس"
+            },
+            "material": "Nassarius marine shell",
+            "description": {
+              "en": "Tiny perforated marine shells from the genus Nassarius, likely used as beads in necklaces or sewn onto clothing. Their presence signifies symbolic adornment and possibly long-distance exchange.",
+              "it": "Piccole conchiglie marine perforate del genere Nassarius, probabilmente utilizzate come perline in collane o cucite sugli abiti. La loro presenza indica ornamento simbolico e forse scambio a lunga distanza.",
+              "fr": "Petites coquilles marines perforées du genre Nassarius, probablement utilisées comme perles dans des colliers ou cousues sur des vêtements. Leur présence suggère un ornement symbolique et un échange à longue distance.",
+              "de": "Kleine durchbohrte Meeresschalen der Gattung Nassarius, wahrscheinlich als Perlen in Halsketten oder auf Kleidung genäht. Ihre Anwesenheit weist auf symbolischen Schmuck und möglicherweise Fernhandel hin.",
+              "ar": "أصداف بحرية صغيرة مثقوبة من جنس ناسياريوس، ربما استُخدمت كخرز في العقود أو خيطت على الملابس. وجودها يشير إلى زينة رمزية وربما تبادل لمسافات طويلة."
+            },
+            "estimated_date": "ca. 24,000–22,000 BP",
+            "accession_number": "BR-SHO-001A",
+            "curator": "Prof. Giovanni Moretti"
+          }
+        ]
+    },
+
+    {
+        "id": "pigment_processing_tools",
+        "name": {
+          "en": "Pigment Processing Tools",
+          "it": "Strumenti per la lavorazione dei pigmenti",
+          "fr": "Outils de traitement des pigments",
+          "de": "Werkzeuge zur Pigmentverarbeitung",
+          "ar": "أدوات معالجة الصبغات"
+        },
+        "type": "Tool",
+        "period": "Upper Paleolithic",
+        "estimated_date": "ca. 25,000–20,000 BP",
+        "accession_number": "BR-PIG-001",
+        "origin": "Balzi Rossi Caves, Italy",
+        "description": {
+          "en": "These tools, including grinding stones and stone palettes, were used to crush and process pigments such as red ochre. They provide insight into symbolic, artistic, or cosmetic practices of Upper Paleolithic humans.",
+          "it": "Questi strumenti, tra cui pietre per macinare e tavolozze in pietra, venivano utilizzati per frantumare e lavorare pigmenti come l'ocra rossa. Offrono una visione delle pratiche simboliche, artistiche o cosmetiche degli esseri umani del Paleolitico superiore.",
+          "fr": "Ces outils, comprenant des pierres à broyer et des palettes en pierre, servaient à écraser et préparer des pigments comme l’ocre rouge. Ils témoignent des pratiques symboliques, artistiques ou cosmétiques des humains du Paléolithique supérieur.",
+          "de": "Diese Werkzeuge, darunter Schleifsteine und Steinpaletten, wurden verwendet, um Pigmente wie roten Ocker zu zerkleinern und zu verarbeiten. Sie geben Aufschluss über symbolische, künstlerische oder kosmetische Praktiken der Menschen des Jungpaläolithikums.",
+          "ar": "تُستخدم هذه الأدوات، بما في ذلك أحجار الطحن ولوحات حجرية، في سحق ومعالجة الصبغات مثل المغرة الحمراء. وهي تقدم فهماً للممارسات الرمزية أو الفنية أو التجميلية في العصر الحجري القديم الأعلى."
+        },
+        "significance": {
+          "en": "Highlights the cultural use of pigments and provides material evidence for symbolic behavior, potentially in body decoration, art, or rituals.",
+          "it": "Evidenzia l'uso culturale dei pigmenti e fornisce prove materiali del comportamento simbolico, potenzialmente nella decorazione del corpo, nell'arte o nei rituali.",
+          "fr": "Met en lumière l’usage culturel des pigments et fournit des preuves matérielles de comportements symboliques, possiblement liés à la décoration corporelle, à l’art ou aux rituels.",
+          "de": "Hebt die kulturelle Verwendung von Pigmenten hervor und liefert materielle Belege für symbolisches Verhalten, möglicherweise bei Körperbemalung, Kunst oder Ritualen.",
+          "ar": "تسلط الضوء على الاستخدام الثقافي للأصباغ وتوفر أدلة مادية على السلوك الرمزي، ربما في الزينة الجسدية أو الفن أو الطقوس."
+        },
+        "material": {
+          "en": "Stone, pigment residue",
+          "it": "Pietra, residui di pigmenti",
+          "fr": "Pierre, résidus de pigment",
+          "de": "Stein, Pigmentrückstände",
+          "ar": "حجر، بقايا صبغات"
+        },
+        "curator": "Dr. Alessio Romano",
+        "sub_artifacts": [
+          {
+            "id": "pigment_grinding_stone",
+            "name": {
+              "en": "Pigment Grinding Stone",
+              "it": "Pietra per macinare pigmenti",
+              "fr": "Pierre de broyage de pigment",
+              "de": "Pigmentschleifstein",
+              "ar": "حجر طحن الصبغات"
+            },
+            "material": "Stone",
+            "description": {
+              "en": "Used to grind ochre and other pigments into powder, likely for application in symbolic or decorative practices.",
+              "it": "Utilizzata per macinare l'ocra e altri pigmenti in polvere, probabilmente per applicazioni simboliche o decorative.",
+              "fr": "Servait à broyer de l’ocre et d’autres pigments en poudre, probablement pour des pratiques symboliques ou décoratives.",
+              "de": "Diente zum Mahlen von Ocker und anderen Pigmenten zu Pulver, vermutlich für symbolische oder dekorative Anwendungen.",
+              "ar": "تُستخدم لطحن المغرة وغيرها من الصبغات إلى مسحوق، ربما لاستخدامها في الممارسات الرمزية أو الزخرفية."
+            },
+            "estimated_date": "ca. 24,000 BP",
+            "accession_number": "BR-PIG-001A",
+            "curator": "Prof. Sofia Neri"
+          },
+          {
+            "id": "pigment_stone_palette",
+            "name": {
+              "en": "Stone Palette with Pigment Traces",
+              "it": "Tavolozza in pietra con tracce di pigmenti",
+              "fr": "Palette en pierre avec traces de pigments",
+              "de": "Steinpalette mit Pigmentspuren",
+              "ar": "لوحة حجرية مع آثار صبغات"
+            },
+            "material": "Stone",
+            "description": {
+              "en": "Flat surface likely used to mix or apply pigments. Residue analysis suggests repeated use with red ochre.",
+              "it": "Superficie piatta probabilmente utilizzata per mescolare o applicare pigmenti. L'analisi dei residui suggerisce un uso ripetuto con ocra rossa.",
+              "fr": "Surface plate probablement utilisée pour mélanger ou appliquer des pigments. Les résidus indiquent une utilisation répétée d’ocre rouge.",
+              "de": "Fläche vermutlich zum Mischen oder Auftragen von Pigmenten verwendet. Rückstände deuten auf wiederholten Gebrauch mit rotem Ocker hin.",
+              "ar": "سطح مسطح يُحتمل أنه استخدم لخلط أو تطبيق الأصباغ. تشير التحليلات إلى الاستخدام المتكرر للمغرة الحمراء."
+            },
+            "estimated_date": "ca. 23,500 BP",
+            "accession_number": "BR-PIG-001B",
+            "curator": "Dr. Carla De Santis"
+          }
+        ]
+    },
+
+    {
+        "id": "mousterian_layer_finds",
+        "name": {
+          "en": "Mousterian Layer Finds",
+          "it": "Reperti dello Strato Musteriano",
+          "fr": "Vestiges de la Couche Moustérienne",
+          "de": "Funde aus der Moustérien-Schicht",
+          "ar": "مكتشفات طبقة الموستيرية"
+        },
+        "type": "Archaeological Layer",
+        "period": "Middle Paleolithic (~100,000–40,000 BP)",
+        "estimated_date": "ca. 80,000–45,000 BP",
+        "accession_number": "BR-MLF-001",
+        "origin": "Mousterian Layer, Balzi Rossi Caves, Italy",
+        "description": {
+          "en": "This archaeological layer beneath the Upper Paleolithic strata contains Mousterian tools, faunal remains, and evidence of hearths, attributed to Neanderthal occupation of the Balzi Rossi caves.",
+          "it": "Questo strato archeologico, sotto i livelli del Paleolitico superiore, contiene strumenti musteriani, resti faunistici e tracce di focolari attribuiti all’occupazione neandertaliana delle grotte dei Balzi Rossi.",
+          "fr": "Cette couche archéologique sous les niveaux du Paléolithique supérieur contient des outils moustériens, des restes de faune et des traces de foyers, attribués à l’occupation néandertalienne des grottes des Balzi Rossi.",
+          "de": "Diese archäologische Schicht unter den jungpaläolithischen Lagen enthält Moustérien-Werkzeuge, Tierüberreste und Spuren von Feuerstellen, die der Neandertalerbesiedlung der Balzi-Rossi-Höhlen zugeschrieben werden.",
+          "ar": "تحتوي هذه الطبقة الأثرية الواقعة تحت طبقات العصر الحجري القديم الأعلى على أدوات موستيرية وبقايا حيوانية وأدلة على مواقد، تُنسب إلى احتلال إنسان نياندرتال لكهوف بالزي روسي."
+        },
+        "significance": {
+          "en": "Key evidence of Neanderthal presence in the Balzi Rossi region prior to the arrival of anatomically modern humans. The Mousterian tools reflect sophisticated lithic technology.",
+          "it": "Prova chiave della presenza neandertaliana nella regione dei Balzi Rossi prima dell’arrivo dell’uomo moderno. Gli strumenti musteriani riflettono una tecnologia litica sofisticata.",
+          "fr": "Preuve essentielle de la présence néandertalienne dans la région des Balzi Rossi avant l’arrivée de l’homme moderne. Les outils moustériens montrent une technologie lithique sophistiquée.",
+          "de": "Wichtiger Beweis für die Präsenz von Neandertalern in der Region Balzi Rossi vor dem Eintreffen des modernen Menschen. Die Moustérien-Werkzeuge zeigen eine ausgefeilte Steintechnologie.",
+          "ar": "دليل مهم على وجود إنسان نياندرتال في منطقة بالزي روسي قبل وصول الإنسان الحديث. تعكس الأدوات الموستيرية تكنولوجيا حجرية متقدمة."
+        },
+        "material": {
+          "en": "Flint, animal bone, charcoal",
+          "it": "Selce, ossa animali, carbone",
+          "fr": "Silex, os d’animaux, charbon",
+          "de": "Feuerstein, Tierknochen, Holzkohle",
+          "ar": "صوان، عظام حيوانية، فحم"
+        },
+        "curator": "Prof. Giorgio Silvestri",
+        "sub_artifacts": [
+          {
+            "id": "mousterian_scraper_tool",
+            "name": {
+              "en": "Flint Scraper Tool",
+              "it": "Raschiatoio in selce",
+              "fr": "Grattoir en silex",
+              "de": "Feuerstein-Schaber",
+              "ar": "أداة كاشطة من الصوان"
+            },
+            "material": "Flint",
+            "description": {
+              "en": "A typical Mousterian scraper used by Neanderthals for hide preparation or woodworking. Displays characteristic retouching along the edge.",
+              "it": "Un tipico raschiatoio musteriano usato dai Neandertal per la preparazione delle pelli o la lavorazione del legno. Presenta ritocchi caratteristici sul bordo.",
+              "fr": "Un grattoir moustérien typique utilisé par les Néandertaliens pour le traitement des peaux ou le travail du bois. Présente un retouchage caractéristique.",
+              "de": "Ein typischer Moustérien-Schaber, von Neandertalern zur Bearbeitung von Häuten oder Holz verwendet. Mit charakteristischen Kantenretuschen.",
+              "ar": "كاشطة موستيرية نموذجية استخدمها إنسان نياندرتال لتحضير الجلود أو النجارة. تُظهر تَعديلات مميزة على الحواف."
+            },
+            "estimated_date": "ca. 70,000 BP",
+            "accession_number": "BR-MLF-001A",
+            "curator": "Dr. Elena Ricci"
+          }
+        ]
+    },
+
+    {
+        "id": "anthropomorphic_stone_carvings",
+        "name": {
+          "en": "Anthropomorphic Stone Carvings",
+          "it": "Sculture Litiche Antropomorfe",
+          "fr": "Sculptures Lithiques Anthropomorphes",
+          "de": "Anthropomorphe Steinskulpturen",
+          "ar": "منحوتات حجرية على شكل بشري"
+        },
+        "type": "Prehistoric Carving",
+        "period": "Upper Paleolithic",
+        "estimated_date": "ca. 25,000–20,000 BP",
+        "accession_number": "BR-ASC-001",
+        "origin": "Balzi Rossi Caves, Liguria, Italy",
+        "description": {
+          "en": "A small number of stone carvings interpreted as stylized human figures or representations. Their exact function remains debated, possibly ritualistic, symbolic, or connected to fertility.",
+          "it": "Un piccolo numero di sculture in pietra interpretate come figure umane stilizzate o rappresentazioni. La loro funzione esatta è dibattuta: potrebbero essere rituali, simboliche o legate alla fertilità.",
+          "fr": "Un petit nombre de sculptures en pierre interprétées comme des figures humaines stylisées ou des représentations. Leur fonction exacte reste débattue, peut-être rituelle, symbolique ou liée à la fertilité.",
+          "de": "Eine geringe Anzahl von Steinskulpturen, die als stilisierte menschliche Figuren interpretiert werden. Ihre genaue Funktion ist umstritten – möglicherweise rituell, symbolisch oder mit Fruchtbarkeit verbunden.",
+          "ar": "عدد قليل من المنحوتات الحجرية يُفسر على أنها أشكال بشرية رمزية أو تمثيلية. وظيفتها الدقيقة لا تزال موضع جدل، وقد تكون طقسية أو رمزية أو مرتبطة بالخصوبة."
+        },
+        "significance": {
+          "en": "These carvings provide rare insight into symbolic or religious expressions of early Upper Paleolithic humans at Balzi Rossi.",
+          "it": "Queste sculture offrono una rara testimonianza delle espressioni simboliche o religiose degli uomini del Paleolitico superiore a Balzi Rossi.",
+          "fr": "Ces sculptures offrent un aperçu rare des expressions symboliques ou religieuses des humains du Paléolithique supérieur à Balzi Rossi.",
+          "de": "Diese Skulpturen liefern seltene Einblicke in symbolische oder religiöse Ausdrucksformen früher jungpaläolithischer Menschen in Balzi Rossi.",
+          "ar": "توفر هذه المنحوتات نظرة نادرة على التعبيرات الرمزية أو الدينية لإنسان العصر الحجري القديم الأعلى في بالزي روسي."
+        },
+        "material": {
+          "en": "Limestone or soft stone",
+          "it": "Calcare o pietra tenera",
+          "fr": "Calcaire ou pierre tendre",
+          "de": "Kalkstein oder Weichgestein",
+          "ar": "الحجر الجيري أو حجر ناعم"
+        },
+        "curator": "Dr. Marta Bellini",
+        "sub_artifacts": [
+          {
+            "id": "stone_fertility_idol",
+            "name": {
+              "en": "Stylized Female Figure",
+              "it": "Figura femminile stilizzata",
+              "fr": "Figure féminine stylisée",
+              "de": "Stilisierte Frauenfigur",
+              "ar": "تمثال أنثوي رمزي"
+            },
+            "material": "Limestone",
+            "description": {
+              "en": "A small carved figure with exaggerated hips and breasts, possibly linked to fertility symbolism, similar in concept to other 'Venus' figures.",
+              "it": "Piccola figura scolpita con fianchi e seni accentuati, probabilmente legata a simbolismi di fertilità, simile ad altre 'Veneri' paleolitiche.",
+              "fr": "Petite figure sculptée avec des hanches et seins accentués, probablement liée à la fertilité, semblable à d'autres 'Vénus' paléolithiques.",
+              "de": "Klein geschnitzte Figur mit betonten Hüften und Brüsten, vermutlich mit Fruchtbarkeitssymbolik verbunden, ähnlich anderen Venus-Figuren.",
+              "ar": "تمثال صغير محفور له أرداف وصدر بارز، من المحتمل أن يكون مرتبطًا بالرمزية الخصوبية، مشابه لتماثيل 'فينوس' الأخرى."
+            },
+            "estimated_date": "ca. 23,000 BP",
+            "accession_number": "BR-ASC-001A",
+            "curator": "Dr. Marta Bellini"
+          }
+        ]
+    },
+
+    {
+        "id": "grimaldi_skull_casts",
+        "name": {
+          "en": "Grimaldi Skull Casts",
+          "it": "Calchi Cranici di Grimaldi",
+          "fr": "Moulages Crâniens de Grimaldi",
+          "de": "Grimaldi-Schädelabgüsse",
+          "ar": "نسخ جمجمية من غريمالدي"
+        },
+        "type": "Reconstruction / Cast",
+        "period": "Upper Paleolithic (Gravettian)",
+        "estimated_date": "Originals: ca. 24,000 BP; Casts: 20th century",
+        "accession_number": "BR-GSC-001",
+        "origin": "Based on remains from Baousse-Rousse Cave, Grimaldi (Italy)",
+        "description": {
+          "en": "High-precision replicas of the skulls discovered in the Grimaldi area, used for research and display. These casts represent individuals from Upper Paleolithic burials and are valuable for forensic reconstruction and educational outreach.",
+          "it": "Repliche ad alta precisione dei crani scoperti nell'area di Grimaldi, utilizzate per ricerca ed esposizione. Rappresentano individui di sepolture del Paleolitico superiore e sono utili per la ricostruzione forense e la divulgazione didattica.",
+          "fr": "Répliques de haute précision des crânes découverts dans la région de Grimaldi, utilisées pour la recherche et l'exposition. Elles représentent des individus de sépultures paléolithiques supérieures et sont précieuses pour la reconstitution médico-légale et la vulgarisation.",
+          "de": "Hochpräzise Nachbildungen der in der Region Grimaldi entdeckten Schädel, verwendet für Forschung und Ausstellung. Sie stellen Individuen aus jungpaläolithischen Bestattungen dar und sind wertvoll für forensische Rekonstruktionen und Bildungszwecke.",
+          "ar": "نسخ دقيقة للغاية من الجماجم المكتشفة في منطقة غريمالدي، تُستخدم في البحث والعرض. تمثل هذه النسخ أفرادًا من مدافن العصر الحجري القديم الأعلى، وهي ذات قيمة كبيرة لإعادة البناء الجنائي والتثقيف."
+        },
+        "significance": {
+          "en": "These casts enable public engagement and comparative study in paleoanthropology without risking the fragile originals.",
+          "it": "Questi calchi permettono l'interazione pubblica e lo studio comparativo in paleoantropologia senza danneggiare gli originali fragili.",
+          "fr": "Ces moulages permettent l'engagement du public et l'étude comparative en paléoanthropologie sans mettre en péril les originaux fragiles.",
+          "de": "Diese Abgüsse ermöglichen öffentliche Bildung und vergleichende Studien in der Paläoanthropologie ohne die fragilen Originale zu gefährden.",
+          "ar": "تتيح هذه النسخ التفاعل الجماهيري والدراسة المقارنة في علم الإنسان القديم دون تعريض النسخ الأصلية الهشة للخطر."
+        },
+        "material": {
+          "en": "Resin, plaster (based on original bone)",
+          "it": "Resina, gesso (basati su ossa originali)",
+          "fr": "Résine, plâtre (à partir d’os originaux)",
+          "de": "Harz, Gips (basierend auf Originalknochen)",
+          "ar": "راتنج وجص (مأخوذة عن العظام الأصلية)"
+        },
+        "curator": "Dr. Luca Ferraro",
+        "sub_artifacts": [
+          {
+            "id": "grimaldi_female_skull_cast",
+            "name": {
+              "en": "Female Skull Cast (Grimaldi Burial)",
+              "it": "Calco Cranico Femminile (Sepoltura di Grimaldi)",
+              "fr": "Moulage Crânien Féminin (Sépulture de Grimaldi)",
+              "de": "Weiblicher Schädelabguss (Grimaldi-Grab)",
+              "ar": "نسخة جمجمة أنثوية (مدفن غريمالدي)"
+            },
+            "material": "Plaster/resin",
+            "description": {
+              "en": "A detailed cranial replica of one of the adolescent females from the Grimaldi burials. Used in facial reconstruction research and museum education.",
+              "it": "Replica cranica dettagliata di una delle adolescenti sepolte a Grimaldi. Utilizzata per ricerche di ricostruzione facciale e didattica museale.",
+              "fr": "Réplique détaillée du crâne d'une des adolescentes des sépultures de Grimaldi. Utilisée pour la recherche en reconstitution faciale et l'éducation muséale.",
+              "de": "Detaillierte Nachbildung des Schädels einer der Jugendlichen aus den Grimaldi-Bestattungen. Für Gesichtrekonstruktion und Museumsbildung verwendet.",
+              "ar": "نسخة مفصلة من جمجمة إحدى الفتيات المدفونات في غريمالدي. تُستخدم في أبحاث إعادة بناء الوجه والتعليم المتحفي."
+            },
+            "estimated_date": "Cast: mid 20th century",
+            "accession_number": "BR-GSC-001A",
+            "curator": "Dr. Luca Ferraro"
+          }
+        ]
+    }       
+]

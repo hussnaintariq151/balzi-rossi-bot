@@ -1,0 +1,68 @@
+{
+    "id": "educational_programs_balzi_rossi",
+    "educational_programs": {
+      "school_programs": {
+        "available": true,
+        "description": {
+          "en": "Interactive guided tours and educational workshops are available for school groups of all ages. Programs include age‑appropriate activities like ‘C’era una volta’, ‘L’arte paleolitica’, ‘Tocca e ascolta il mondo della Preistoria’, and more—offered in Italian and French, free of charge.",
+          "it": "Visite guidate interattive e laboratori educativi sono disponibili per gruppi scolastici di ogni età. I programmi includono attività adatte all'età come “C’era una volta”, “L’arte paleolitica”, “Tocca e ascolta il mondo della Preistoria” e altri—offerti in italiano e francese, gratuiti.",
+          "fr": "Des visites guidées interactives et des ateliers éducatifs sont proposés pour les groupes scolaires de tous âges. Les programmes incluent des activités adaptées à l’âge comme « C’era una volta », « L’arte paleolitica », « Tocca e ascolta il mondo della Preistoria » et autres — proposés en italien et en français, gratuitement.",
+          "de": "Interaktive Führungen und Bildungswerkstätten stehen Schulgruppen aller Altersstufen zur Verfügung. Programme beinhalten altersgerechte Aktivitäten wie „C’era una volta“, „L’arte paleolitica“, „Tocca e ascolta il mondo della Preistoria“ und mehr — auf Italienisch und Französisch, kostenlos.",
+          "ar": "تتوفر جولات إرشادية تفاعلية وورش تعليمية للمجموعات المدرسية من جميع الأعمار. تشمل البرامج أنشطة مناسبة للعمر مثل «C’era una volta»، و«L’arte paleolitica»، و«Tocca e ascolta il mondo della Preistoria» وغيرها — باللغتين الإيطالية والفرنسية ومجانية."
+        },
+        "age_groups": ["primary", "lower_secondary"],
+        "languages": ["it", "fr"],
+        "cost": "free",
+        "booking_info": {
+          "phone": "+39 0184 38113",
+          "contact": "Maria Antonietta Segrè, Educational Services Manager"
+        }
+      },
+      "university_collaborations": {
+        "available": true,
+        "description": {
+          "en": "The museum collaborates with top Italian universities via the SP‑Heritage project for geo‑archaeological research at Balzi Rossi and Grotta del Principe.",
+          "it": "Il museo collabora con le principali università italiane tramite il progetto SP‑Heritage per ricerche geoarcheologiche a Balzi Rossi e nella Grotta del Principe.",
+          "fr": "Le musée collabore avec les principales universités italiennes dans le cadre du projet SP‑Heritage pour des recherches géo‑archéologiques à Balzi Rossi et dans la Grotte du Prince.",
+          "de": "Das Museum arbeitet mit führenden italienischen Universitäten im Rahmen des SP‑Heritage-Projekts für geoarchäologische Forschungen an Balzi Rossi und in der Grotta del Principe zusammen.",
+          "ar": "يتعاون المتحف مع أفضل الجامعات الإيطالية ضمن مشروع SP‑Heritage لإجراء أبحاث جيولوجية أثرية في بالزي روسي وكهف الأمير."
+        },
+        "universities": [
+          {
+            "name": "University of Milan (Statale di Milano)",
+            "departments": ["Earth Sciences 'A. Desio'"],
+            "role": "Leading geo‑archaeological studies on sea‑level change & human adaptation."
+          },
+          {
+            "name": "University of Pisa",
+            "role": "Participant in SP‑Heritage research."
+          },
+          {
+            "name": "University of Genoa",
+            "role": "SP‑Heritage partner; also co-developed museum multimedia exhibits."
+          }
+        ]
+      },
+      "public_workshops": {
+        "available": true,
+        "description": {
+          "en": "Public educational workshops, including digital laboratories such as ‘La borsetta dell’Homo Sapiens’ and ‘Prepariamo un gioiello preistorico’, are offered free and regularly.",
+          "it": "Sono disponibili gratuitamente laboratori educativi aperti al pubblico, tra cui laboratori digitali come “La borsetta dell’Homo Sapiens” e “Prepariamo un gioiello preistorico”.",
+          "fr": "Des ateliers éducatifs ouverts au public, y compris des laboratoires numériques tels que « La borsetta dell’Homo Sapiens » et « Prepariamo un gioiello preistorico », sont proposés gratuitement et régulièrement.",
+          "de": "Öffentliche Bildungswerkstätten, einschließlich digitaler Labore wie „La borsetta dell’Homo Sapiens“ und „Prepariamo un gioiello preistorico“, werden kostenlos und regelmäßig angeboten.",
+          "ar": "يتم تقديم ورش تعليمية عامة، بما في ذلك مختبرات رقمية مثل «La borsetta dell’Homo Sapiens» و«Prepariamo un gioiello preistorico»، مجانًا وبانتظام."
+        }
+      },
+      "events_calendar": {
+        "available": false,
+        "note": {
+          "en": "No online events calendar currently, but occasional special guided visits (e.g., Centenary of Prince Albert I) are organized.",
+          "it": "Non è attualmente disponibile un calendario eventi online, ma visite guidate speciali (ad es. Centenario di Alberto I) vengono organizzate occasionalmente.",
+          "fr": "Aucun calendrier événementiel en ligne à ce jour, mais des visites guidées spéciales (ex. Centenaire du Prince Albert I) sont organisées occasionnellement.",
+          "de": "Kein Online-Veranstaltungskalender verfügbar, aber gelegentliche Sonderführungen (z. B. zum hundertjährigen Tod von Fürst Albert I.) werden durchgeführt.",
+          "ar": "لا يوجد تقويم فعاليات عبر الإنترنت حاليًا، ولكن تُنظم زيارات إرشادية خاصة (مثلاً احتفال مئوية الأمير ألبرت الأول) من حين لآخر."
+        }
+      }
+    }
+}
+  

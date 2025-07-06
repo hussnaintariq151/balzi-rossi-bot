@@ -1,0 +1,52 @@
+{
+    "id": "location_directions_balzi_rossi",
+    "location": {
+      "latitude": 43.7847,
+      "longitude": 7.5652,
+      "address": {
+        "en": "Via dei Balzi Rossi, 9, 18039 Ventimiglia IM, Italy",
+        "it": "Via dei Balzi Rossi, 9, 18039 Ventimiglia IM, Italia",
+        "fr": "Via dei Balzi Rossi, 9, 18039 Vintimille IM, Italie",
+        "de": "Via dei Balzi Rossi, 9, 18039 Ventimiglia IM, Italien",
+        "ar": "فيّا دي بالزي روسي 9، 18039 فينتيميليا IM، إيطاليا"
+      }
+    },
+    "how_to_get_there": {
+      "by_train": {
+        "en": "From Ventimiglia station, take Bus Line 1 towards Ponte San Ludovico (approx. 20 minutes). Alternatively, walk about 40 minutes (3.5 km).",
+        "it": "Dalla stazione di Ventimiglia, prendere l'autobus Linea 1 verso Ponte San Ludovico (circa 20 minuti). In alternativa, camminare circa 40 minuti (3,5 km).",
+        "fr": "Depuis la gare de Vintimille, prendre la ligne de bus 1 vers Ponte San Ludovico (environ 20 minutes). Sinon, marcher environ 40 minutes (3,5 km).",
+        "de": "Vom Bahnhof Ventimiglia Buslinie 1 Richtung Ponte San Ludovico nehmen (ca. 20 Minuten). Alternativ ca. 40 Minuten zu Fuß (3,5 km).",
+        "ar": "من محطة فنتيميليا، استقل الحافلة خط 1 نحو بونتي سان لودوفيكو (حوالي 20 دقيقة). أو امشِ حوالي 40 دقيقة (3.5 كم)."
+      },
+      "by_car": {
+        "en": "Take A10 motorway to the Ventimiglia exit. Follow SS20 and then SS1 towards France. At the roundabout near the border, follow signs for ‘Museo dei Balzi Rossi’.",
+        "it": "Prendi l'autostrada A10 fino all'uscita Ventimiglia. Segui la SS20 e poi la SS1 verso la Francia. Alla rotonda vicino al confine, segui le indicazioni per ‘Museo dei Balzi Rossi’.",
+        "fr": "Prenez l'autoroute A10 jusqu'à la sortie Ventimiglia. Suivez la SS20 puis la SS1 en direction de la France. Au rond-point près de la frontière, suivez les panneaux ‘Museo dei Balzi Rossi’.",
+        "de": "Nehmen Sie die A10 bis zur Ausfahrt Ventimiglia. Folgen Sie der SS20 und dann der SS1 Richtung Frankreich. Am Kreisverkehr in Grenznähe den Schildern ‘Museo dei Balzi Rossi’ folgen.",
+        "ar": "اسلك طريق A10 حتى مخرج فنتيميليا. اتبع SS20 ثم SS1 باتجاه فرنسا. عند الدوار بالقرب من الحدود، اتبع اللافتات المؤدية إلى ‘Museo dei Balzi Rossi’."
+      },
+      "walking_path": {
+        "en": "From the border roundabout, follow the seaside path under the pine trees. The museum is a 5-minute walk away.",
+        "it": "Dalla rotonda al confine, segui il sentiero sul mare sotto i pini. Il museo è a 5 minuti a piedi.",
+        "fr": "Depuis le rond-point à la frontière, suivez le sentier côtier sous les pins. Le musée est à 5 minutes à pied.",
+        "de": "Vom Grenzkreisverkehr dem Küstenpfad unter den Pinien folgen. Das Museum ist in 5 Minuten zu Fuß erreichbar.",
+        "ar": "من الدوار الحدودي، اتبع الطريق الساحلي تحت أشجار الصنوبر. المتحف يبعد 5 دقائق سيرًا على الأقدام."
+      }
+    },
+    "nearby_landmarks": {
+      "en": ["Ponte San Ludovico border", "Ventimiglia town center", "Menton (France)"],
+      "it": ["Confine di Ponte San Ludovico", "Centro di Ventimiglia", "Mentone (Francia)"],
+      "fr": ["Frontière de Ponte San Ludovico", "Centre de Vintimille", "Menton (France)"],
+      "de": ["Grenze Ponte San Ludovico", "Stadtzentrum Ventimiglia", "Menton (Frankreich)"],
+      "ar": ["حدود بونتي سان لودوفيكو", "وسط مدينة فنتيميليا", "منتون (فرنسا)"]
+    },
+    "parking_info": {
+      "en": "Free parking is available under the pine trees near the museum, about 2 minutes on foot.",
+      "it": "Parcheggio gratuito disponibile sotto i pini vicino al museo, a circa 2 minuti a piedi.",
+      "fr": "Parking gratuit disponible sous les pins près du musée, à environ 2 minutes à pied.",
+      "de": "Kostenlose Parkplätze befinden sich unter den Pinien in der Nähe des Museums, etwa 2 Minuten zu Fuß.",
+      "ar": "يتوفر موقف سيارات مجاني تحت أشجار الصنوبر بالقرب من المتحف، على بُعد حوالي دقيقتين سيرًا على الأقدام."
+    }
+  }
+  

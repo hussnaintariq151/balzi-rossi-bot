@@ -1,0 +1,50 @@
+{
+    "id": "research_balzi_rossi",
+    "research": {
+      "ongoing_projects": [
+        {
+          "name": "SP-Heritage",
+          "description": {
+            "en": "A multidisciplinary geo-archaeological research project focused on the Balzi Rossi and Grotta del Principe area. It investigates 400,000 years of sea level changes and human adaptation.",
+            "it": "Un progetto di ricerca geoarcheologica multidisciplinare focalizzato sull'area dei Balzi Rossi e della Grotta del Principe. Studia 400.000 anni di variazioni del livello del mare e adattamento umano.",
+            "fr": "Un projet de recherche géo-archéologique multidisciplinaire axé sur la zone des Balzi Rossi et de la Grotte du Prince. Il examine 400 000 ans de variations du niveau marin et l'adaptation humaine.",
+            "de": "Ein multidisziplinäres geoarchäologisches Forschungsprojekt mit Fokus auf die Region Balzi Rossi und die Grotta del Principe. Es untersucht 400.000 Jahre Meeresspiegelveränderungen und menschliche Anpassung.",
+            "ar": "مشروع بحث جيولوجي-أثري متعدد التخصصات يركز على منطقة بالزي روسي وكهف الأمير. يدرس تغيّرات مستوى سطح البحر والتكيّف البشري على مدى 400 ألف عام."
+          },
+          "collaborating_universities": [
+            "University of Milan (Statale di Milano)",
+            "University of Pisa",
+            "University of Genoa"
+          ],
+          "funding": {
+            "organization": "Italian Ministry of University and Research (MUR)",
+            "amount": "€1,000,000",
+            "program": "FISR2019"
+          },
+          "start_year": 2021,
+          "status": "active"
+        }
+      ],
+      "recent_excavations": {
+        "available": true,
+        "description": {
+          "en": "Geoarchaeologists have recently investigated the Grotta del Principe using new stratigraphic and geomorphological methods, revealing early evidence of fire use and prehistoric sea level indicators.",
+          "it": "I geoarcheologi hanno recentemente studiato la Grotta del Principe utilizzando nuovi metodi stratigrafici e geomorfologici, rivelando le prime tracce dell'uso del fuoco e indicatori del livello del mare preistorico.",
+          "fr": "Des géoarchéologues ont récemment étudié la Grotte du Prince avec de nouvelles méthodes stratigraphiques et géomorphologiques, révélant des traces précoces d'utilisation du feu et des indicateurs du niveau marin préhistorique.",
+          "de": "Geoarchäologen haben kürzlich die Grotta del Principe mit neuen stratigraphischen und geomorphologischen Methoden untersucht und frühe Hinweise auf Feuerverwendung sowie prähistorische Meeresspiegelschwankungen entdeckt.",
+          "ar": "قام الجيولوجيون الأثريون مؤخرًا بدراسة كهف الأمير باستخدام تقنيات طبقية وجيومورفولوجية جديدة، وكشفوا عن أدلة مبكرة لاستخدام النار ومؤشرات على مستوى سطح البحر في عصور ما قبل التاريخ."
+        }
+      },
+      "public_engagement": {
+        "available": true,
+        "description": {
+          "en": "Special guided visits and conferences have been organized for public outreach during events such as the centenary of Prince Albert I, in collaboration with the Musée d’Anthropologie préhistorique of Monaco.",
+          "it": "Sono state organizzate visite guidate speciali e conferenze per il pubblico in occasione di eventi come il centenario del Principe Alberto I, in collaborazione con il Musée d’Anthropologie préhistorique di Monaco.",
+          "fr": "Des visites guidées spéciales et des conférences ont été organisées pour le public lors d'événements tels que le centenaire du Prince Albert Ier, en collaboration avec le Musée d’Anthropologie préhistorique de Monaco.",
+          "de": "Spezielle Führungen und Konferenzen wurden für die Öffentlichkeit organisiert, etwa zum 100. Todestag von Fürst Albert I., in Zusammenarbeit mit dem Musée d’Anthropologie préhistorique in Monaco.",
+          "ar": "تم تنظيم زيارات إرشادية خاصة ومؤتمرات عامة بمناسبة فعاليات مثل الذكرى المئوية للأمير ألبرت الأول، بالتعاون مع متحف الأنثروبولوجيا ما قبل التاريخ في موناكو."
+        }
+      }
+    }
+}
+  

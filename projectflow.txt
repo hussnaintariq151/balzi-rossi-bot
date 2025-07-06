@@ -1,0 +1,75 @@
+venus_figurines
+caviglione_woman_burial
+man_of_menton_burial
+grimaldi_women_burials
+Baousse-Rousse Child Burial
+Flint Tools from Balzi Rossi
+Engraved Bones (Symbolic Artifacts)
+Faunal Remains (Paleolithic fauna like ibex, deer)
+Red Ochre Fragments (Stand-alone deposits)
+Balzi Rossi Cave Wall Engravings (if applicable to site context)
+Shell Ornaments (separate from burials — general adornment findings)
+Mousterian Layer Finds (Neanderthal context — earlier than Gravettian)
+Anthropomorphic Stone Carvings (Rare — if available)
+Grimaldi Skull Casts (Reconstruction/replica data for digital museum use)
+
+
+balzi_rossi_bot/
+│
+├── main.py                        # Entry point (for local testing)
+│
+├── voice_transcriber.py          # Whisper voice to text + lang detection
+├── language_router.py            # Language switch logic
+├── emotion_detector.py           # Emotion detection from voice
+├── age_estimator.py              # Age group estimation from voice
+├── llm_responder.py              # GPT-4 response generator
+├── text_to_speech.py             # Converts response to speech
+├── conversation_manager.py       # Session state, user profile, history
+│
+├── multilingual_dataset/         # All JSON data files about Balzi Rossi
+│   ├── visitor_services.json
+│   ├── visitor_reviews.json
+│   ├── artifacts.json
+│   ├── ...
+│
+├── utils/                        # Utility functions (e.g., audio helpers)
+│
+└── requirements.txt              # Python dependencies
+
+
+
+            ┌─────────────────────┐
+            │ User Audio or Text  │
+            └────────┬────────────┘
+                     │
+     ┌───────────────▼───────────────┐
+     │     voice_transcriber.py      │ ◄──── [Whisper API]
+     └──────────────┬────────────────┘
+                    │
+        ┌───────────▼────────────┐
+        │ language_router.py     │ ◄──── [langdetect]
+        └───────────┬────────────┘
+                    │
+        ┌───────────▼────────────┐
+        │ emotion_detector.py    │ ◄──── [Pretrained Audio Emotion Model]
+        └───────────┬────────────┘
+                    │
+        ┌───────────▼────────────┐
+        │ age_estimator.py       │ ◄──── [Voice age model or classifier]
+        └───────────┬────────────┘
+                    │
+        ┌───────────▼────────────┐
+        │ conversation_manager.py│ ◄──── [History, user profile state]
+        └───────────┬────────────┘
+                    │
+        ┌───────────▼────────────┐
+        │ llm_responder.py       │ ◄──── [GPT-4, grounded on JSON dataset]
+        └───────────┬────────────┘
+                    │
+        ┌───────────▼────────────┐
+        │ text_to_speech.py      │ ◄──── [gTTS / ElevenLabs / Google TTS]
+        └────────────────────────┘
+                    │
+            ┌───────▼───────┐
+            │ Spoken Output │
+            └───────────────┘

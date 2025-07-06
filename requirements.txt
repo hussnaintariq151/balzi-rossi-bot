@@ -1,0 +1,15 @@
+openai-whisper 
+sounddevice 
+scipy 
+numpy
+pyaudio
+pytz
+langchain_core
+langchain_astradb
+langchain_openai
+langdetect
+python-multipart
+fastapi[all]
+
+
+

@@ -1,0 +1,41 @@
+{
+    "id": "special_features_at_balzi_rossi",
+    "special_features": {
+      "geological_landscape": {
+        "en": "The site sits on a striking 100 m cliff of reddish Jurassic‑dolomite limestone, with dramatic Mediterranean Sea views and direct access to rocky coastal paths.",
+        "it": "Il sito si trova su una spettacolare scogliera alta 100 m formata da calcari dolomitici rossastri giurassici, con viste drammatiche sul Mar Mediterraneo e accesso diretto a sentieri costieri rocciosi.",
+        "fr": "Le site se situe sur une spectaculaire falaise de 100 m composée de calcaire dolomitique rougeâtre du Jurassique, avec des vues imprenables sur la Méditerranée et un accès direct à des sentiers côtiers rocheux.",
+        "de": "Die Stätte liegt auf einer markanten, 100 m hohen Klippe aus rötlichem jurassischem Dolomitkalk, mit dramatischer Aussicht auf das Mittelmeer und direktem Zugang zu felsigen Küstenpfaden.",
+        "ar": "يقع الموقع على منحدر صخري مذهل ارتفاعه 100 م من الحجر الجيري الدولوميتجي الأحمر من العصر الجوراسي، مع إطلالات خلابة على البحر الأبيض المتوسط ومسارات ساحلية صخرية مباشرة."
+      },
+      "prehistoric_caves": {
+        "en": "Home to seven prehistoric caves—such as Grotta del Caviglione and Grotta del Principe—with archaeological layers tracing human presence from Neanderthals to Upper Paleolithic Homo sapiens.",
+        "it": "Ospita sette grotte preistoriche—come la Grotta del Caviglione e la Grotta del Principe—with stratificazioni che testimoniano la presenza umana da Neanderthal fino all’Homo sapiens del Paleolitico superiore.",
+        "fr": "Abrite sept grottes préhistoriques—comme la Grotte du Caviglione et la Grotte du Prince—avec des couches archéologiques attestant la présence humaine depuis les Néandertaliens jusqu’aux Homo sapiens du Paléolithique supérieur.",
+        "de": "Beherbergt sieben prähistorische Höhlen – darunter die Grotta del Caviglione und die Grotta del Principe – mit archäologischen Schichten, die menschliche Präsenz von Neandertalern bis zum Jungpaläolithikum dokumentieren.",
+        "ar": "يضم سبع كهوف ما قبل التاريخ — مثل كهف كافيليون وكهف الأمير — بطبقات أثرية توثق الوجود البشري من النياندرتال إلى الإنسان العاقل في العصر الحجري القديم الأعلى."
+      },
+      "historic_road_and_rail": {
+        "en": "The Roman Via Julia Augusta once passed here, and the modern Genoa–Nice railway edge-cut into the cliff—remnants of these infrastructures remain visible.",
+        "it": "La via romana Julia Augusta passava qui, e la moderna ferrovia Genova–Nizza ha tagliato il costone roccioso—i resti di queste infrastrutture sono ancora visibili.",
+        "fr": "La voie romaine Julia Augusta passait ici, et la ligne ferroviaire moderne Gênes–Nice a entaillé la falaise—les vestiges de ces infrastructures sont encore visibles.",
+        "de": "Die römische Via Julia Augusta führte hier vorbei, und die moderne Eisenbahnstrecke Genua–Nizza wurde in die Klippe eingeschnitten – Spuren dieser Infrastruktur sind noch erkennbar.",
+        "ar": "كانت الطريق الرومانية جوليا أوغوستا تمر هنا، وسكة الحديد الحديثة جنوة–نيس نقرت المنحدر—لا تزال بقايا هذه البنى واضحة للعيان."
+      },
+      "scenic_sea_views": {
+        "en": "Offers panoramic 180° views of the Mediterranean coastline—from Ventimiglia to Menton, Cap‑Martin, and across to the French Riviera.",
+        "it": "Offre viste panoramiche a 180° della costa del Mediterraneo—from Ventimiglia a Mentone, Cap‑Martin e verso la Costa Azzurra francese.",
+        "fr": "Offre des vues panoramiques à 180° de la côte méditerranéenne—from Ventimiglia à Menton, Cap‑Martin et la Côte d’Azur.",
+        "de": "Bietet einen 180°-Panoramablick auf die Mittelmeerküste – von Ventimiglia bis Menton, Cap‑Martin und die französische Riviera.",
+        "ar": "يقدم إطلالات بانورامية بزاوية 180° لساحل البحر الأبيض المتوسط—من فينتيميليا إلى منتون وكاب-مارتان وحتى الريفييرا الفرنسية."
+      },
+      "underwater_cliff_structures": {
+        "en": "Beneath the cliff are submerged marine terraces and notches—visible markers of tectonic uplift and past sea levels studied by geo‑archaeologists.",
+        "it": "Sotto la scogliera si trovano terrazze marine sommerse e nicchie—marcatori visibili del sollevamento tettonico e dei precedenti livelli del mare studiati dai geoarcheologi.",
+        "fr": "Sous la falaise se trouvent des terrasses marines submergées et des encoches—témoins visibles du soulèvement tectonique et des anciens niveaux marins étudiés par les géo‑archéologues.",
+        "de": "Unter der Klippe befinden sich untergetauchte Meeresterrassen und Nischen – sichtbare Markierungen tektonischer Hebungen und früherer Meeresspiegel, die Geoarchäologen untersuchen.",
+        "ar": "تحت المنحدر توجد مصاطب بحرية غارقة ونتوءات — علامات واضحة على الارتقاء التكتوني ومستويات المياه السابقة التي يدرسها الباحثون الجيولوجيون الأثريون."
+      }
+    }
+}
+  

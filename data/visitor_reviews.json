@@ -1,0 +1,128 @@
+{
+    "id": "visitor_reviews_at_",
+    "visitor_reviews_and_feedback": {
+      "average_rating": 4.3,
+      "summary": {
+        "en": "Visitors generally praise the museum's friendly staff, low entry cost, and archaeological value. Guided tours, prehistoric artifacts, and cultural depth are highlights. Some note limited English signage and occasional payment inconvenience.",
+        "it": "I visitatori lodano generalmente lo staff cordiale del museo, il basso costo d’ingresso e il valore archeologico. Le visite guidate, gli oggetti preistorici e la profondità culturale sono i punti salienti. Alcuni segnalano la mancanza di segnaletica in inglese e qualche disagio nei pagamenti.",
+        "fr": "Les visiteurs apprécient en général le personnel accueillant, le tarif abordable et la richesse archéologique du musée. Les visites guidées, les artefacts préhistoriques et la profondeur culturelle sont soulignés. Quelques remarques concernent la signalétique limitée en anglais et des soucis de paiement.",
+        "de": "Die Besucher loben das freundliche Personal, den günstigen Eintritt und den archäologischen Wert des Museums. Führungen, prähistorische Artefakte und kulturelle Tiefe werden hervorgehoben. Einige kritisieren die eingeschränkte englische Beschilderung und gelegentliche Zahlungsprobleme.",
+        "ar": "يشيد الزوار عمومًا بالموظفين الودودين، وسعر الدخول المنخفض، والقيمة الأثرية والثقافية للمتحف. من أبرز ما ذُكر الجولات الإرشادية والقطع الأثرية. أشار البعض إلى نقص اللافتات باللغة الإنجليزية ومشكلات بسيطة في الدفع."
+      },
+      "highlights": [
+        {
+          "aspect": {
+            "en": "Staff Friendliness",
+            "it": "Cordialità dello staff",
+            "fr": "Amabilité du personnel",
+            "de": "Freundlichkeit des Personals",
+            "ar": "ود الموظفين"
+          },
+          "comment": {
+            "en": "Staff like Jessica and Alessandro received high praise for their hospitality and detailed tours in English.",
+            "it": "Personale come Jessica e Alessandro sono stati molto apprezzati per la loro ospitalità e le visite dettagliate in inglese.",
+            "fr": "Le personnel comme Jessica et Alessandro ont été très appréciés pour leur accueil et leurs visites détaillées en anglais.",
+            "de": "Mitarbeiter wie Jessica und Alessandro wurden für ihre Gastfreundschaft und detaillierten Führungen auf Englisch gelobt.",
+            "ar": "نال الموظفون مثل جيسيكا وأليساندرو إشادة كبيرة على حسن استقبالهم والجولات التفصيلية باللغة الإنجليزية."
+          }
+        },
+        {
+          "aspect": {
+            "en": "Language Accessibility",
+            "it": "Accessibilità linguistica",
+            "fr": "Accessibilité linguistique",
+            "de": "Sprachzugänglichkeit",
+            "ar": "إتاحة اللغة"
+          },
+          "comment": {
+            "en": "Most signage is in Italian and French, but English translations are now available on request.",
+            "it": "La segnaletica è principalmente in italiano e francese, ma le traduzioni in inglese sono ora disponibili su richiesta.",
+            "fr": "La signalétique est principalement en italien et en français, mais des traductions en anglais sont disponibles sur demande.",
+            "de": "Die Beschilderung ist hauptsächlich auf Italienisch und Französisch, aber englische Übersetzungen sind auf Anfrage erhältlich.",
+            "ar": "معظم اللافتات باللغتين الإيطالية والفرنسية، لكن تتوفر ترجمات إنجليزية عند الطلب."
+          }
+        },
+        {
+          "aspect": {
+            "en": "Accessibility & Assistance",
+            "it": "Accessibilità e assistenza",
+            "fr": "Accessibilité et assistance",
+            "de": "Zugänglichkeit und Unterstützung",
+            "ar": "سهولة الوصول والمساعدة"
+          },
+          "comment": {
+            "en": "Helpful staff accompanied groups and assisted disabled visitors with close parking access.",
+            "it": "Lo staff disponibile ha accompagnato i gruppi e assistito i visitatori disabili con parcheggio vicino.",
+            "fr": "Le personnel serviable a accompagné les groupes et aidé les personnes handicapées avec un accès proche au parking.",
+            "de": "Hilfsbereites Personal begleitete Gruppen und unterstützte behinderte Besucher mit nahegelegenem Parkplatz.",
+            "ar": "قدم الموظفون المساعدة للمجموعات والزوار ذوي الإعاقة، بما في ذلك توفير مواقف قريبة."
+          }
+        },
+        {
+          "aspect": {
+            "en": "Cultural Significance",
+            "it": "Importanza culturale",
+            "fr": "Importance culturelle",
+            "de": "Kulturelle Bedeutung",
+            "ar": "الأهمية الثقافية"
+          },
+          "comment": {
+            "en": "The museum showcases rare Paleolithic engravings, prehistoric burials, and the famous Venuses of Balzi Rossi.",
+            "it": "Il museo espone rari graffiti paleolitici, sepolture preistoriche e le famose Veneri dei Balzi Rossi.",
+            "fr": "Le musée présente de rares gravures paléolithiques, des sépultures préhistoriques et les célèbres Vénus de Balzi Rossi.",
+            "de": "Das Museum zeigt seltene paläolithische Gravuren, prähistorische Bestattungen und die berühmten Venusfiguren von Balzi Rossi.",
+            "ar": "يعرض المتحف نقوشًا نادرة من العصر الحجري، ودفنات ما قبل التاريخ، وتماثيل فينوس الشهيرة في بالزي روسي."
+          }
+        },
+        {
+          "aspect": {
+            "en": "Visit Planning Tips",
+            "it": "Consigli per la visita",
+            "fr": "Conseils pour la visite",
+            "de": "Besuchstipps",
+            "ar": "نصائح للزيارة"
+          },
+          "comment": {
+            "en": "Due to limited staffing, you may have to wait to visit both buildings. Planning your timing helps.",
+            "it": "A causa del personale limitato, potresti dover aspettare per visitare entrambi gli edifici. È utile pianificare l'orario.",
+            "fr": "En raison du personnel limité, il peut être nécessaire d’attendre pour visiter les deux bâtiments. Mieux vaut planifier votre venue.",
+            "de": "Wegen begrenzten Personals kann es zu Wartezeiten kommen, um beide Gebäude zu besichtigen. Gute Planung hilft.",
+            "ar": "نظرًا لقلة عدد الموظفين، قد تضطر للانتظار لزيارة المبنيين. من الأفضل التخطيط مسبقًا."
+          }
+        }
+      ],
+      "example_reviews": [
+        {
+          "language": "en",
+          "rating": 5,
+          "text": "Very worthwhile for just €4. Jessica at the ticket desk gave an excellent cave tour in English!"
+        },
+        {
+          "language": "en",
+          "rating": 5,
+          "text": "Absolutely incredible museum and excavation site. The prehistoric artifacts are outstanding."
+        },
+        {
+          "language": "en",
+          "rating": 2,
+          "text": "We were turned away because they didn't accept our 50 EUR note or card. Walked 4km for nothing."
+        },
+        {
+          "language": "en",
+          "rating": 4,
+          "text": "Small but very interesting museum. Helpful staff, great with our sports group, and very accommodating for disabled visitors."
+        },
+        {
+          "language": "en",
+          "rating": 4,
+          "text": "Small, but interesting museum made up of two buildings and a cave. One employee managed both, so there were wait times."
+        },
+        {
+          "language": "en",
+          "rating": 5,
+          "text": "Located near the French border, surrounded by Jurassic cliffs and pine trees, this site is rich in history with rare finds and rock engravings."
+        }
+      ]
+    }
+  }
+  

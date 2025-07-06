@@ -1,0 +1,42 @@
+{
+    "id": "visitor_services_balzi_rossi",
+    "visitor_services": {
+      "accessibility": {
+        "wheelchair_entrance": true,
+        "wheelchair_parking": true,
+        "wheelchair_restroom": true
+      },
+      "amenities": {
+        "restrooms": true,
+        "restaurant_nearby": true,
+        "gift_shop": true
+      },
+      "rest_areas": {
+        "available": true
+      },
+      "family_friendly": {
+        "good_for_kids": true
+      },
+      "guided_tours": {
+        "available": true,
+        "free": true,
+        "languages": ["it", "en"],
+        "self_guided_app": true,
+        "description": {
+          "en": "Free guided tours are usually available in Italian, occasionally in English. A self-guided mobile app is also available.",
+          "it": "Le visite guidate gratuite sono solitamente disponibili in italiano, occasionalmente in inglese. È disponibile anche un'app mobile per la visita autonoma.",
+          "fr": "Des visites guidées gratuites sont généralement disponibles en italien, parfois en anglais. Une application mobile pour une visite autonome est également disponible.",
+          "de": "Kostenlose Führungen werden in der Regel auf Italienisch angeboten, gelegentlich auch auf Englisch. Eine App für selbstgeführte Touren ist ebenfalls verfügbar.",
+          "ar": "عادةً ما تتوفر جولات إرشادية مجانية باللغة الإيطالية، وأحيانًا باللغة الإنجليزية. يتوفر أيضًا تطبيق جوّال للجولات الذاتية."
+        }
+      },
+      "description": {
+        "en": "Small waterfront museum offering archaeological exhibits, visits to prehistoric caves, and a gift shop.",
+        "it": "Piccolo museo sul lungomare con mostre archeologiche, visite a grotte preistoriche e un negozio di souvenir.",
+        "fr": "Petit musée en bord de mer avec des expositions archéologiques, des visites de grottes préhistoriques et une boutique de souvenirs.",
+        "de": "Kleines Museum am Wasser mit archäologischen Ausstellungen, Besichtigungen prähistorischer Höhlen und einem Souvenirladen.",
+        "ar": "متحف صغير على الواجهة البحرية يضم معارض أثرية، وزيارات إلى الكهوف ما قبل التاريخ، ومتجر هدايا تذكارية."
+      }
+    }
+  }
+  

@@ -1,0 +1,85 @@
+{
+    "id": "safety_info_balzi_rossi",
+    "safety_information": {
+      "title": {
+        "en": "Visitor Safety Information",
+        "it": "Informazioni sulla Sicurezza dei Visitatori",
+        "fr": "Informations de Sécurité pour les Visiteurs",
+        "de": "Sicherheitsinformationen für Besucher",
+        "ar": "معلومات السلامة للزوار"
+      },
+      "description": {
+        "en": "The museum and archaeological area follow official safety protocols to protect visitors, especially when entering outdoor zones, excavation areas, or caves. Protective barriers and staff supervision are in place.",
+        "it": "Il museo e l’area archeologica seguono protocolli di sicurezza ufficiali per proteggere i visitatori, soprattutto nelle zone esterne, di scavo o nelle grotte. Sono presenti barriere protettive e sorveglianza.",
+        "fr": "Le musée et la zone archéologique appliquent des protocoles de sécurité officiels pour protéger les visiteurs, notamment dans les espaces extérieurs, les zones de fouilles et les grottes. Des barrières de protection et une surveillance sont en place.",
+        "de": "Das Museum und das archäologische Gelände folgen offiziellen Sicherheitsprotokollen, um Besucher zu schützen – insbesondere in Außenbereichen, Ausgrabungsstellen und Höhlen. Schutzbarrieren und Aufsicht sind vorhanden.",
+        "ar": "يتبع المتحف والمنطقة الأثرية بروتوكولات سلامة رسمية لحماية الزوار، خاصة عند دخول المناطق الخارجية أو مناطق الحفر أو الكهوف. توجد حواجز حماية ومراقبة."
+      },
+      "guidelines": [
+        {
+          "point": {
+            "en": "Stay on designated paths—do not cross barriers around excavation zones.",
+            "it": "Rimanere sui sentieri designati—non oltrepassare le barriere nelle zone di scavo.",
+            "fr": "Restez sur les chemins balisés—ne franchissez pas les barrières autour des zones de fouilles.",
+            "de": "Bleiben Sie auf ausgewiesenen Wegen – überschreiten Sie keine Barrieren um Ausgrabungsbereiche.",
+            "ar": "ابقَ على المسارات المخصصة – لا تعبر الحواجز حول مناطق الحفر."
+          }
+        },
+        {
+          "point": {
+            "en": "Access to Grotta del Caviglione is restricted during wind, rain, or maintenance work.",
+            "it": "L’accesso alla Grotta del Caviglione è limitato in caso di vento, pioggia o lavori di manutenzione.",
+            "fr": "L’accès à la Grotte del Caviglione est restreint en cas de vent, pluie ou travaux de maintenance.",
+            "de": "Der Zugang zur Grotta del Caviglione ist bei Wind, Regen oder Wartungsarbeiten eingeschränkt.",
+            "ar": "الدخول إلى كهف كافيليون مقيد في حالة الرياح أو الأمطار أو أعمال الصيانة."
+          },
+          "source": "turn0search0"
+        },
+        {
+          "point": {
+            "en": "Children should be supervised at all times near excavation pits or cliff edges.",
+            "it": "I bambini devono essere sorvegliati sempre vicino a scavi o precipizi.",
+            "fr": "Les enfants doivent être surveillés en permanence près des fosses d’excavation ou des falaises.",
+            "de": "Kinder müssen in der Nähe von Ausgrabungslöchern oder Klippen jederzeit beaufsichtigt werden.",
+            "ar": "يجب مراقبة الأطفال في جميع الأوقات بالقرب من حفر الحفريات أو الحواف الصخرية."
+          }
+        },
+        {
+          "point": {
+            "en": "Wear sturdy footwear—outdoor paths may be uneven or slippery.",
+            "it": "Indossare calzature robuste—i sentieri esterni possono essere irregolari o scivolosi.",
+            "fr": "Portez des chaussures solides—les sentiers extérieurs peuvent être irréguliers ou glissants.",
+            "de": "Tragen Sie festes Schuhwerk – Outdoor-Wege können uneben oder rutschig sein.",
+            "ar": "ارتدِ حذاءً متينًا فقد تكون المسارات الخارجية غير مستوية أو زلقة."
+          }
+        },
+        {
+          "point": {
+            "en": "Follow staff instructions and posted warnings (e.g., cave entry times).",
+            "it": "Seguire le indicazioni del personale e la segnaletica (es. orari di accesso alla grotta).",
+            "fr": "Suivez les consignes du personnel et la signalisation (ex. horaires d’accès à la grotte).",
+            "de": "Folgen Sie den Anweisungen des Personals und den Hinweisschildern (z. B. Höhlen‑Öffnungszeiten).",
+            "ar": "اتبع تعليمات الموظفين والإشارات المنشورة (مثل أوقات دخول الكهف)."
+          },
+          "source": "turn0search13"
+        }
+      ],
+      "emergency": {
+        "contacts": [
+          {
+            "name": "Museum Main Line (security & first aid)",
+            "phone": "+39 0184 38113"
+          },
+          {
+            "name": "Ventimiglia Tourist Office",
+            "phone": "+39 0184 1928309"
+          },
+          {
+            "name": "Emergency (Italy)",
+            "phone": "112"
+          }
+        ]
+      }
+    }
+  }
+  
