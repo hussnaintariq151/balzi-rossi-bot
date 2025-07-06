@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Balzi Rossi AI Chatbot</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f7f7f8;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .chat-header {
+      padding: 15px 20px;
+      background-color: #ffffff;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .chat-header h2 {
+      margin: 0;
+      font-size: 1.2rem;
+      color: #333;
+    }
+
+    select {
+      padding: 6px 10px;
+      font-size: 14px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+    }
+
+    .chat-container {
+      flex: 1;
+      padding: 15px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      scroll-behavior: smooth;
+    }
+
+    .message {
+      max-width: 75%;
+      padding: 10px 15px;
+      margin-bottom: 12px;
+      border-radius: 18px;
+      position: relative;
+      font-size: 15px;
+      line-height: 1.4;
+      word-wrap: break-word;
+    }
+
+    .user-message {
+      background-color: #007bff;
+      color: white;
+      align-self: flex-end;
+      margin-left: auto;
+      border-bottom-right-radius: 0;
+    }
+
+    .bot-message {
+      background-color: #e4e6eb;
+      align-self: flex-start;
+      margin-right: auto;
+      border-bottom-left-radius: 0;
+    }
+
+    .input-area {
+      display: flex;
+      align-items: center;
+      padding: 10px 15px;
+      background-color: #fff;
+      border-top: 1px solid #e5e5e5;
+    }
+
+    .input-area input {
+      flex: 1;
+      padding: 10px 15px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 20px;
+      outline: none;
+      transition: border-color 0.3s;
+    }
+
+    .input-area input:focus {
+      border-color: #007bff;
+    }
+
+    .input-area button {
+      background: none;
+      border: none;
+      font-size: 22px;
+      margin-left: 10px;
+      cursor: pointer;
+      color: #007bff;
+      transition: transform 0.2s;
+    }
+
+    .input-area button:hover {
+      transform: scale(1.2);
+    }
+
+    .listening {
+      animation: pulse 1s infinite;
+      color: red;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.3; }
+      50% { opacity: 1; }
+      100% { opacity: 0.3; }
+    }
+
+    audio {
+      margin-top: 6px;
+      width: 100%;
+    }
+
+    @media (max-width: 600px) {
+      .message { font-size: 14px; }
+      .chat-header h2 { font-size: 1rem; }
+      .input-area input { font-size: 14px; }
+      .input-area button { font-size: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="chat-header">
+    <h2>Balzi Rossi Assistant</h2>
+    <select id="language">
+      <option value="en">English</option>
+      <option value="it">Italian</option>
+      <option value="fr">French</option>
+      <option value="de">German</option>
+      <option value="ar">Arabic</option>
+    </select>
+  </div>
+
+  <div class="chat-container" id="chat-box"></div>
+
+  <div class="input-area">
+    <input type="text" id="input-text" placeholder="Type your message..." autocomplete="off" />
+    <button id="mic-btn"><i class="fa-solid fa-microphone"></i></button>
+    <button id="send-btn"><i class="fa-solid fa-paper-plane"></i></button>
+  </div>
+
+  <script>
+    const chatBox = document.getElementById("chat-box");
+    const sendBtn = document.getElementById("send-btn");
+    const micBtn = document.getElementById("mic-btn");
+    const inputField = document.getElementById("input-text");
+    const languageSelect = document.getElementById("language");
+
+    const appendMessage = (sender, text, audioUrl = null) => {
+      const msgDiv = document.createElement("div");
+      msgDiv.className = `message ${sender}-message`;
+      msgDiv.innerText = text;
+
+      if (audioUrl) {
+        const audio = document.createElement("audio");
+        audio.src = audioUrl;
+        audio.controls = true;
+        audio.autoplay = true;
+        msgDiv.appendChild(document.createElement("br"));
+        msgDiv.appendChild(audio);
+      }
+
+      chatBox.appendChild(msgDiv);
+      chatBox.scrollTop = chatBox.scrollHeight;
+    };
+
+    const sendMessage = async (inputText) => {
+      const language = languageSelect.value;
+      appendMessage("user", inputText);
+
+      const formData = new FormData();
+      formData.append("text", inputText);
+      formData.append("language", language);
+
+      try {
+        const res = await fetch("/chat", {
+          method: "POST",
+          body: formData
+        });
+
+        const data = await res.json();
+        appendMessage("bot", data.response, data.audio_url);
+      } catch (err) {
+        appendMessage("bot", "Sorry, something went wrong. Please try again.");
+      }
+    };
+
+    sendBtn.onclick = () => {
+      const text = inputField.value.trim();
+      if (!text) return;
+      inputField.value = "";
+      sendMessage(text);
+    };
+
+    // Trigger send on Enter key press
+    inputField.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        sendBtn.click();
+      }
+    });
+
+    micBtn.onclick = () => {
+      const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+      recognition.lang = languageSelect.value;
+
+      micBtn.innerHTML = '<i class="fa-solid fa-wave-square listening"></i>';
+      recognition.start();
+
+      recognition.onresult = (event) => {
+        const transcript = event.results[0][0].transcript;
+        inputField.value = transcript;
+        sendBtn.click();
+        micBtn.innerHTML = '<i class="fa-solid fa-microphone"></i>';
+      };
+
+      recognition.onerror = () => {
+        micBtn.innerHTML = '<i class="fa-solid fa-microphone"></i>';
+        alert("Voice input failed. Try again.");
+      };
+
+      recognition.onend = () => {
+        micBtn.innerHTML = '<i class="fa-solid fa-microphone"></i>';
+      };
+    };
+
+    languageSelect.onchange = () => {
+      const lang = languageSelect.value;
+      let placeholder = "Type your message...";
+      if (lang === "fr") placeholder = "Tapez votre message...";
+      else if (lang === "it") placeholder = "Scrivi il tuo messaggio...";
+      else if (lang === "de") placeholder = "Geben Sie Ihre Nachricht ein...";
+      else if (lang === "ar") placeholder = "اكتب رسالتك...";
+      inputField.placeholder = placeholder;
+    };
+  </script>
+</body>
+</html>

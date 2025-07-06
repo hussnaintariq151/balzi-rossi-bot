@@ -197,50 +197,36 @@
 
 
 
-
 # retrieve_llm.py
 
 import os
-from dotenv import load_dotenv
 import logging
-from typing import List, Dict, Any, Union
-import sys # Import sys for sys.exit
-
+from dotenv import load_dotenv
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_astradb import AstraDBVectorStore
-from langchain_core.documents import Document
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import BaseOutputParser
 from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_core.output_parsers import StrOutputParser
 
-# --- Import Pydantic models from src.schemas ---
-try:
-    from src.schemas import SpeechAttributes, ChatbotInput, SUPPORTED_LANG_CODES
-except ImportError:
-    print("Error: Could not import Pydantic schemas. Make sure src/schemas.py exists and is accessible.")
-    sys.exit(1)
-# --- END IMPORTS ---
-
-# ========== 1. Load environment variables ==========
+# Load environment variables
 load_dotenv()
+
+logging.basicConfig(level=logging.INFO)
 
 ASTRA_DB_API_ENDPOINT = os.getenv("ASTRA_DB_API_ENDPOINT")
 ASTRA_DB_APPLICATION_TOKEN = os.getenv("ASTRA_DB_APPLICATION_TOKEN")
 ASTRA_DB_NAMESPACE = os.getenv("ASTRA_DB_NAMESPACE")
-ASTRA_DB_COLLECTION = "balzi_rossi" # Consistent collection name
+ASTRA_DB_COLLECTION = "balzi_rossi"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-# ========== 2. Configure Logging ==========
-logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
-
-# ========== 3. OpenAI Multilingual Embedding Model ==========
+# Embeddings and vectorstore
 embedding_model = OpenAIEmbeddings(
     model="text-embedding-3-small",
     dimensions=512,
     openai_api_key=OPENAI_API_KEY
 )
 
-# ========== 4. AstraDB Vector Store ==========
 vectorstore = AstraDBVectorStore(
     embedding=embedding_model,
     collection_name=ASTRA_DB_COLLECTION,
@@ -249,188 +235,113 @@ vectorstore = AstraDBVectorStore(
     namespace=ASTRA_DB_NAMESPACE,
 )
 
-# ========== 5. LLM Setup ==========
+# LLM
 llm = ChatOpenAI(
     model="gpt-4o",
     temperature=0.7,
     openai_api_key=OPENAI_API_KEY
 )
 
-# ========== 6. Language Filtering (Modified to use incoming SpeechAttributes) ==========
-# This function prepares the filter for the vector store based on detected language.
-def get_vectorstore_filter(detected_lang_code: str) -> Dict[str, Any]:
-    # SUPPORTED_LANG_CODES.__args__ gives the tuple of literal strings, e.g., ('en', 'it', ...)
-    if detected_lang_code in SUPPORTED_LANG_CODES.__args__ and detected_lang_code != "unknown":
-        logging.info(f"Applying language filter for: {detected_lang_code}")
-        return {"language": detected_lang_code}
-    else:
-        logging.warning(
-            f"Language '{detected_lang_code}' is not in supported list or is 'unknown'. "
-            "Proceeding without a specific language filter for vector search."
-        )
-        return {} # No language filter applied for vector search
+# Custom output parser that returns only the raw text (clean for TTS)
+class VoiceOutputParser(BaseOutputParser):
+    def parse(self, text: str) -> str:
+        # We can clean or trim the response here if needed
+        return text.strip()
 
-# ========== 7. Define the RAG Chain ==========
-
-# This is the core prompt for the LLM, incorporating user profile attributes.
+# System prompt template for RAG, incorporating user profile to guide voice style
 SYSTEM_PROMPT_TEMPLATE = """
 You are an empathetic, multilingual AI assistant for the Balzi Rossi Archaeological Site and Museum.
-Your goal is to provide helpful, informative, and engaging answers based on the provided museum information.
+Your goal is to provide clear, helpful, and engaging answers strictly based on the given context.
 
-**User Profile:**
-- **Language:** {language}
-- **Emotion:** {emotion}
-- **Age Group:** {age_group}
-- **Tone:** {tone}
+User profile:
+- Emotion: {emotion}
+- Tone: {tone}
+- Age group: {age_group}
+- Language: {language}
 
-**Instructions based on User Profile:**
-- Your response MUST be in the user's detected language: '{language}'.
-- If the user's emotion is 'frustrated' or 'anger', respond in a calm, reassuring, and concise manner. Prioritize direct answers and offer further assistance gently.
-- If the user's emotion is 'joy' or 'happy', you can be more enthusiastic, positive, and offer richer details.
-- If the user's emotion is 'surprise' or 'curious', you can offer more detailed or intriguing facts.
-- If the user's age group is 'child', use simple language, short sentences, and analogies. Focus on exciting and easy-to-understand facts.
-- If the user's age group is 'teenager', provide engaging and slightly more detailed information, connecting to their potential interests.
-- If the user's age group is 'young adult' or 'adult', use clear and informative language. Provide sufficient detail without being overwhelming.
-- If the user's age group is 'senior', use respectful and clear language.
-- If the user's age group is 'unknown', default to an 'adult' style of communication.
-- If the user's tone is 'demanding' or 'assertive', maintain politeness but be direct and factual.
-- If the user's tone is 'polite' or 'friendly', reciprocate with a similarly pleasant tone.
+Instructions:
 
-**General Guidelines:**
-- Answer the user's question truthfully and comprehensively using ONLY the provided context.
-- If the context does not contain enough information to answer the question, politely state that you don't have enough information on that specific topic. Do NOT make up information.
-- If the user's query is not related to the Balzi Rossi Archaeological Site or Museum, politely redirect them. For example: "I am designed to provide information about the Balzi Rossi Archaeological Site and Museum. How can I assist you with that?"
-- Maintain a helpful and friendly overall tone, adapting where specified by user profile.
+- Always respond in the user’s selected language: '{language}'.
+- Adapt style to emotion:
+  - 'frustrated' or 'anger': calm, reassuring, concise.
+  - 'happy' or 'joy': enthusiastic, warm, positive.
+  - 'surprise' or 'curious': detailed, intriguing.
+  - others: friendly and balanced.
+- Adapt tone:
+  - 'demanding' or 'assertive': polite but direct.
+  - 'polite' or 'friendly': warm and pleasant.
+- Adapt content for age group:
+  - 'child': simple, short sentences, analogies.
+  - 'teenager': engaging details related to interests.
+  - 'adult': clear, informative.
+  - 'senior': respectful, clear.
+  - 'unknown': treat as adult.
 
-**Context:**
+General rules:
+- Use only the provided context to answer.
+- If not enough info, politely say so.
+- Do NOT invent facts.
+- If query unrelated to museum, redirect politely.
+
+Context:
 {context}
 
-**User Question:**
+User question:
 {question}
+
+Respond concisely and clearly:
 """
 
-# Define a function to prepare the input for the prompt from the incoming dictionary
-def prepare_prompt_input(input_dict: Dict[str, Any]) -> Dict[str, Any]:
-    # input_dict will be the dictionary representation of ChatbotInput
-    user_query = input_dict["user_query"]
-    attributes = input_dict["attributes"] # This will be a dict
-
-    # Directly use values from the attributes dictionary.
-    # Use .get() with a default for robustness, though Pydantic should ensure they exist.
-    language = attributes.get("language", "unknown")
-    emotion = attributes.get("emotion", "unknown")
-    age_group = attributes.get("age_group", "unknown")
-    tone = attributes.get("tone", "unknown")
-
+def prepare_prompt_input(inputs: dict) -> dict:
     return {
-        "question": user_query,
-        "emotion": emotion,
-        "age_group": age_group,
-        "language": language, # Pass the detected language to the prompt
-        "tone": tone
+        "question": inputs["question"],
+        "context": "\n\n".join(doc.page_content for doc in inputs["context"]),
+        "emotion": inputs.get("emotion", "neutral"),
+        "tone": inputs.get("tone", "friendly"),
+        "age_group": inputs.get("age_group", "adult"),
+        "language": inputs.get("language", "en")
     }
 
 def get_rag_chain():
-    # The chain now explicitly expects a dictionary input that mirrors ChatbotInput's structure
+    def retriever_with_lang_filter(input_dict: dict):
+        # Filter by user selected language ONLY (no auto detect)
+        retriever = vectorstore.as_retriever(
+            search_kwargs={"k": 5, "filter": {"language": input_dict.get("language", "en")}}
+        )
+        return {"retriever": retriever}
+
     rag_chain = (
         RunnablePassthrough.assign(
-            # 'input_dict' will be the dict received by .invoke()
-            prepared_input=RunnableLambda(prepare_prompt_input)
+            retriever_info=RunnableLambda(retriever_with_lang_filter)
         )
         .assign(
-            # Use the language from the prepared_input (SpeechAttributes) to filter vector search
-            # If language is 'unknown' or not supported, get_vectorstore_filter returns an empty dict
-            context=RunnableLambda(
-                lambda x: vectorstore.as_retriever(
-                    search_kwargs={
-                        "k": 5,
-                        "filter": get_vectorstore_filter(x["prepared_input"]["language"])
-                    }
-                ).invoke(x["prepared_input"]["question"]) # Use the original user query for retrieval
-            )
+            context=lambda x: x["retriever_info"]["retriever"].invoke(x["question"])
         )
         .assign(
-            # Finally, combine the prepared input and retrieved context for the LLM prompt
-            answer=RunnablePassthrough.assign(
-                context_str=lambda x: "\n\n".join([doc.page_content for doc in x["context"]]),
-                question=lambda x: x["prepared_input"]["question"],
-                language=lambda x: x["prepared_input"]["language"],
-                emotion=lambda x: x["prepared_input"]["emotion"],
-                age_group=lambda x: x["prepared_input"]["age_group"],
-                tone=lambda x: x["prepared_input"]["tone"]
-            )
-            | ChatPromptTemplate.from_template(SYSTEM_PROMPT_TEMPLATE)
-            | llm
-            | StrOutputParser()
+            prompt_input=RunnableLambda(prepare_prompt_input)
         )
-        .pick("answer") # Only return the generated answer
+        .assign(
+            answer=ChatPromptTemplate.from_template(SYSTEM_PROMPT_TEMPLATE)
+                   | llm
+                   | VoiceOutputParser()
+        )
+        .pick("answer")
     )
     return rag_chain
 
-# ========== 8. Example Usage (Simulating ChatbotInput) ==========
+# Example usage
 if __name__ == "__main__":
-    # Ensure all necessary environment variables are set
-    if not all([ASTRA_DB_API_ENDPOINT, ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_NAMESPACE, OPENAI_API_KEY]):
-        print("Error: Missing one or more environment variables for AstraDB or OpenAI.")
-        sys.exit(1)
-
     rag_chain = get_rag_chain()
 
-    print("\n--- Testing RAG Chain with simulated ChatbotInput ---")
+    test_input = {
+        "question": "What can I see in the Balzi Rossi Museum?",
+        "emotion": "happy",
+        "tone": "friendly",
+        "age_group": "adult",
+        "language": "en"
+    }
 
-    # Simulate inputs from user_voice.py and attribute_extract.py
-    simulated_inputs = [
-        ChatbotInput(
-            user_query="What can I see in the Balzi Rossi Museum?",
-            attributes=SpeechAttributes(language="en", emotion="neutral", age_group="adult", tone="questioning"),
-            session_id="test_session_1"
-        ),
-        ChatbotInput(
-            user_query="Cosa posso vedere nel Museo dei Balzi Rossi?",
-            attributes=SpeechAttributes(language="it", emotion="joy", age_group="young adult", tone="friendly"),
-            session_id="test_session_2"
-        ),
-        ChatbotInput(
-            user_query="Where is the restroom? I really need to go now!",
-            attributes=SpeechAttributes(language="en", emotion="anger", age_group="adult", tone="demanding"),
-            session_id="test_session_3"
-        ),
-        ChatbotInput(
-            user_query="Tell me about the biggest dinosaur bone!", # Irrelevant query
-            attributes=SpeechAttributes(language="en", emotion="curious", age_group="child", tone="questioning"),
-            session_id="test_session_4"
-        ),
-        ChatbotInput(
-            user_query="J'aimerais savoir plus sur la collection d'art moderne.",
-            attributes=SpeechAttributes(language="fr", emotion="neutral", age_group="adult", tone="formal"),
-            session_id="test_session_5"
-        ),
-        ChatbotInput(
-            user_query="How can I get to the museum from here?", # Example of a query that might need external context or specific RAG
-            attributes=SpeechAttributes(language="en", emotion="neutral", age_group="adult", tone="questioning"),
-            session_id="test_session_6"
-        ),
-        ChatbotInput(
-            user_query="I am a historian and interested in the specific dating techniques used for the Venus figurines.",
-            attributes=SpeechAttributes(language="en", emotion="curious", age_group="adult", tone="formal"),
-            session_id="test_session_7"
-        ),
-        ChatbotInput(
-            user_query="你好，我想了解这个博物馆。", # Chinese, unsupported language
-            attributes=SpeechAttributes(language="unknown", emotion="neutral", age_group="adult", tone="neutral"),
-            session_id="test_session_8"
-        ),
-    ]
-
-    for i, input_obj in enumerate(simulated_inputs):
-        print(f"\n--- 🧪 Test Case {i+1} ---")
-        print(f"User Query: '{input_obj.user_query}'")
-        print(f"Attributes: Language={input_obj.attributes.language}, Emotion={input_obj.attributes.emotion}, Age={input_obj.attributes.age_group}, Tone={input_obj.attributes.tone}")
-
-        try:
-            # Invoke the RAG chain with the ChatbotInput object converted to a dictionary
-            response = rag_chain.invoke(input_obj.model_dump())
-            print(f"Bot Response:\n{response}")
-        except Exception as e:
-            logging.error(f"Error processing test case {i+1}: {e}")
-            print(f"An error occurred for query '{input_obj.user_query}': {e}")
+    logging.info(f"Generating response for language={test_input['language']}, emotion={test_input['emotion']}, tone={test_input['tone']}, age_group={test_input['age_group']}")
+    response = rag_chain.invoke(test_input)
+    print("\n--- AI Response for Voice TTS ---")
+    print(response)
