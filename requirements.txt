@@ -34,7 +34,7 @@ openai-whisper==20250625
 faster-whisper==1.1.1
 edge-tts==7.0.2
 sounddevice==0.5.2
-PyAudio==0.2.14
+
 scipy
 numpy
 webrtcvad-wheels

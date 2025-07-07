@@ -60,3 +60,5 @@ balzi_rossi_bot/
             ┌───────▼───────┐
             │ Spoken Output │
             └───────────────┘
+
+# PyAudio==0.2.14
