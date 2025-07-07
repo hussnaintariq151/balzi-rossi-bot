@@ -1,17 +1,4 @@
-venus_figurines
-caviglione_woman_burial
-man_of_menton_burial
-grimaldi_women_burials
-Baousse-Rousse Child Burial
-Flint Tools from Balzi Rossi
-Engraved Bones (Symbolic Artifacts)
-Faunal Remains (Paleolithic fauna like ibex, deer)
-Red Ochre Fragments (Stand-alone deposits)
-Balzi Rossi Cave Wall Engravings (if applicable to site context)
-Shell Ornaments (separate from burials — general adornment findings)
-Mousterian Layer Finds (Neanderthal context — earlier than Gravettian)
-Anthropomorphic Stone Carvings (Rare — if available)
-Grimaldi Skull Casts (Reconstruction/replica data for digital museum use)
+
 
 
 balzi_rossi_bot/
